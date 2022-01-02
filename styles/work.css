@@ -1,0 +1,326 @@
+@font-face {
+    font-family: "Domaine";
+    src: url(../fonts/TestDomaineSansDisplay-Medium.otf);
+}
+
+@font-face {
+    font-family: "Montreal";
+    src: url(../fonts/PPNeueMontreal-Medium.otf);
+}
+@font-face {
+    font-family: "Montreal-Book";
+    src: url(../fonts/PPNeueMontreal-Book.otf);
+} 
+
+@font-face {
+    font-family: "Suisse";
+    src: url(../fonts/SuisseIntl-Regular.ttf);
+}  
+
+::selection {
+    background: #000000;
+    color: #ffffff;
+} 
+
+html,
+body {
+    background-color: #0e0d0d;
+    margin: 0; 
+    font-family: "Suisse";
+}
+
+/* Main is the layout on top of the body */
+
+main {
+    min-height: 140vh; 
+    border-radius: 30px;
+    background-color: #F4F4F4; 
+    margin: -60px auto;
+    width: calc(100% - 60px);
+    max-width: 1750px;
+    z-index: 1;
+    position: relative;
+    padding-bottom: 100px;
+    margin-bottom: 40px;
+}
+
+/* Tabs */ 
+
+nav {
+
+    margin: 45px auto;
+    width: calc(100% - 60px);
+    max-width: 1750px; 
+    padding-left: 126px;
+
+
+}
+
+nav a {
+    padding: 10px;
+    padding-bottom: 18px;
+    padding-top: 6px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-right: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    font-family:"Domaine"; 
+    color: rgb(27, 27, 27);
+}
+
+nav a:hover {
+    position: relative;
+    top: -5px;
+}
+
+/* Page Title  */  
+
+header {
+    margin: 0;
+}
+
+h1 {
+    font-family:"Domaine"; 
+    font-size: 140px;
+    margin: 0px;
+    padding-top: 90px;
+    padding-left: 120px; 
+}
+
+/* Filters */   
+
+input[type='checkbox'] {
+    appearance: none;
+    -webkit-appearance: none;
+    margin: 0;
+    font: inherit;
+    color: currentColor;
+    width: 1.05em;
+    height: 1.05em;
+    border: 0.12em solid currentColor;
+    border-radius: 0em;
+    place-content: center;
+    margin-right: 12px;
+    position: relative;
+    cursor: pointer;
+    transition: background .2s;
+}
+
+input[type=checkbox]:hover {
+    background: rgba(116, 114, 114, 0.1);
+}
+
+
+/* input[type=checkbox]:checked::before,
+input[type=checkbox]:checked::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-top: 4px solid #83153D;
+    display: block;
+    border-radius: 2px;
+    background-image: url("/projects/imgs/check.svg");
+
+}  
+*/
+
+/* input[type=checkbox]:checked::before {
+    width: 12px;
+    transform: translate(0px, 8px) rotate(45deg)
+}
+
+input[type=checkbox]:checked::after {
+    width: 33px;
+    transform: translate(3px, 0px) rotate(-45deg);
+} */ 
+
+input[type=checkbox]:checked::after {
+    content: '';
+    background-image: url(../projects/imgs/check.svg);
+    display: block;
+    height: 150%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 150%;
+    position: relative;
+    top: -55%;
+    left: 0;
+ }
+
+
+
+label {
+    cursor: pointer;
+    display: flex;
+    font-size: 1.5rem;
+    align-items: center;
+    height: 100%; 
+    margin-right: 30px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 12px ;
+    font-family: "Montreal-Book";
+    float: left;
+}
+
+.filters {
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px; 
+    margin-bottom: 60px;
+    overflow:hidden;
+
+}
+
+/* Cards */   
+
+
+.card {
+    display: none;
+}
+
+#gallery-grid.product-design .card.type-product-design,
+#gallery-grid.graphic-design .card.type-graphic-design,
+#gallery-grid.investigations .card.type-investigations, 
+#gallery-grid.computer-vision .card.type-computer-vision, 
+#gallery-grid.cartography .card.type-cartography, 
+#gallery-grid.data-viz .card.type-data-viz, 
+#gallery-grid.web-apps .card.type-web-apps {
+    display: initial;
+    margin-top: 60px; 
+    margin-bottom: -60px;
+
+}
+
+.card_img_container {
+    max-width: 100%;
+    object-fit: cover;
+    filter: grayscale(100%);
+    /* border-radius: 10px; */
+
+}
+
+.card_img_container:hover {
+    filter: grayscale(0%);
+    transition-duration: 1.5s;
+}
+
+
+#gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 6rem;
+    margin: 0 auto;
+    max-width: 1400px;
+    margin-left: 120px;
+    align-items: stretch;
+}
+
+.definition {
+    font-size: 18px;
+    line-height: 28px;
+    /* position: relative;  */
+    
+    
+}
+
+.more-details {
+    font-size: 16px; 
+    color: #a7a7a7;
+    font-weight: 200;
+    margin-top: -10px;
+
+}
+
+.twitter-tweet {
+    margin-left: 125px;
+}
+
+
+
+
+/* .definition:before{
+    content: "";
+    position: absolute;
+    width: 0;
+    margin-bottom: -2px;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: #464646; 
+    visibility: hidden;
+    transition: all 0.3s ease-in-out;
+  }
+
+.definition:hover:before{
+    visibility: visible;
+    width: 100%;
+  } */
+
+
+.title-urbstr {
+    font-family:"Domaine"; 
+    font-size: 90px;
+    margin: 0px;
+    padding-top: 90px;
+    padding-left: 120px;  
+}
+
+.title-design {
+    font-family:"Montreal"; 
+    /* margin-top: 90px;  */
+    font-size: 100px; 
+    /* font-size: 120px; */
+    margin: 0px;
+    padding-top: 170px;
+    padding-left: 120px;  
+
+}
+
+.content-block {
+    max-width: 1000px;
+}
+
+.meta-data {
+    padding-left: 120px;  
+    color: rgb(156, 156, 156);
+    padding-top: 24px;
+    
+}
+
+.context {
+    padding-top: 12px;
+    padding-left: 120px;
+    font-size: 18px;  
+    line-height: 26px;
+    color: rgb(77, 77, 77);
+
+}
+
+.img_container{
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-bottom: 20px;
+
+}
+
+.section {
+    padding-left: 120px;
+    color: rgb(156, 156, 156); 
+    font-size: 24px;
+    padding-top: 30px;
+
+}
+
+.context-p {
+    padding-left: 120px; 
+    padding-top: 0px; 
+    font-size: 18px;  
+    line-height: 26px;
+    color: rgb(77, 77, 77);
+
+
+}

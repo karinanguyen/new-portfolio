@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+    <head>
+        <link rel="stylesheet" href="../styles/work.css"> 
+    </head>
+
+
+
+    <body>
+        <nav class="tabs">
+            <a href="/" style = "transform: rotate(-3.74deg); background-color: #cdbbcd;">Home</a>
+            <a href="/projects/" style = "transform: rotate(2.31deg); background-color: #dfdfdf;">Work & Projects</a>
+            <a href="/projects/" style = "transform: rotate(-2.8deg); background-color: #b6c7cb;">Research</a> 
+            <a href="/projects/" style = "background-color: #d9c0c0;">Notes & Thoughts </a> 
+            <a href="/projects/" style = "transform: rotate(2.31deg); background-color: #cbbca2;">Photography </a>    
+        </nav>
+        <main>
+            <header>
+                <h1 class="title"> Work & Projects </h1> 
+            </header>
+            <div class="filters">
+
+                <label>
+                    <input type='checkbox' id='investigations'/>  
+                    Visual Forensics & Investigations
+                </label> 
+
+                <label>
+                    <input type='checkbox' id='product-design'/> 
+                    HCI & Product Design
+                </label>
+
+                <label>
+                    <input type='checkbox' id='data-viz'/> 
+                    Data Visualizations & Stories
+                </label>
+
+                <label>
+                    <input type='checkbox' id='cartography'/>  
+                    Cartography / GIS
+                </label>
+
+
+                <label>
+                    <input type='checkbox' id='generative-art'/>  
+                    Generative Art 
+                </label>
+
+                <label>
+                    <input type='checkbox' id='computer-vision'/> 
+                    Computer Vision / AI  
+                </label>
+
+                <label>
+                    <input type='checkbox' id='web-apps'/>  
+                    Web / Mobile Apps 
+                </label>
+
+                <label>
+                    <input type='checkbox' id='graphic-design'/>  
+                    Graphic Design / Branding 
+                </label>
+
+                <label>
+                    <input type='checkbox' id='events'/>  
+                    Events 
+                </label> 
+                <label>
+                    <input type='checkbox' id='creative-writing'/>  
+                    Creative writing & Editorial  
+                </label>  
+                <label>
+                    <input type='checkbox' id='art-exhibitions'/>  
+                    Art, Installations & Exhibitions 
+                </label>
+
+            </div>
+
+
+            <div id="gallery-grid" class="">
+
+                <div class="card type-investigations">
+                    <img class = "card_img_container" src="imgs/sudan.png" alt=""/>
+                    <p class = "definition"> Sudan - investigative collaboration with SITU Research </p>
+                    <p class="more-details"> Confidential · 2021 </p>
+                </div> 
+
+                <div class="card type-computer-vision">
+                    <a href ="https://www.karinanguyen.co/projects/lightfield/index.html" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/lightfield.png" alt=""/>
+                        <p class = "definition"> LCS - interactive gallery of lightfield camera simulation</p>
+                    </a>
+                        <p class="more-details"> Computational Photography · OpenCV · 2021 </p>
+                </div>
+
+
+                <div class="card type-investigations">
+                    <a href ="https://situ.nyc/research/projects/after-the-strike" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/gaza.png" alt=""/>
+                        <p class = "definition"> After the Strike - reconstructing timeline of structural changes in Beit Hanoun, Gaza
+                        </p>
+                    </a>
+                        <p class="more-details"> Visual Verification · AP, SITU Research · 2021 </p>
+                </div> 
+
+
+                <div class="card type-investigations">
+                    <img class = "card_img_container" src="imgs/syria.png" alt=""/>
+                    <p class = "definition"> Legal Investigations - building universal jurisdiction cases of war crimes in Syria </p>
+                    <p class="more-details"> Confidential · 2021 </p>
+                </div>
+
+                <div class="card type-computer-vision type-cartography">
+                        <img class = "card_img_container" src="imgs/gan-maps.jpg" alt=""/>
+                        <p class = "definition">  Cartopia - researching generative neural nets to understand human cartographies  </p>
+                        <p class="more-details"> Digital Geographies · GAN, Python · 2021 -   </p>
+                </div>    
+
+                <div class="card type-investigations type-data-viz">
+                    <a href ="https://apnews.com/article/myanmar-business-b2187c696e428139437778aeab0c43d4" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/myanmar.png" alt=""/>
+                        <p class = "definition"> Bodies as Tools of Terror - verifying systemic violence during Myanmar's coup</p>
+                    </a>
+                        <p class="more-details"> Evidence Discovery, Verification  · AP Unique Investigations · 2021 </p>
+                </div> 
+
+
+
+                <div class="card type-investigations">
+                    <a href="https://www.karinanguyen.co/archofdestr/archofdest.html"  style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/archofdest.jpg" alt=""/>
+                        <p class = "definition"> ADV - counterforensics on architectural & urban destructions in Syria, Iraq </p>
+                        <p class="more-details"> Satellite Visualization · Blender · 2021 </p> 
+                    </a>
+                </div>
+
+
+                <!-- TO-DO: CREATE A NEW PAGE  -->
+
+                <div class="card type-investigations type-cartography type-data-viz">
+                    <a href ="cartography/urban-strikes.html" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/drone-strike-yemen.jpg" alt=""/>
+                        <p class = "definition"> Urban Impact of Drones - cartographic impact on area in Yemen, Libya</p>
+                    </a>
+                        <p class="more-details"> Counter-mapping · Illustrator · 2021 </p>
+                </div> 
+
+
+
+                <div class="card type-investigations type-cartography type-data-viz">
+                    <a href ="https://www.amnesty.org/en/latest/news/2021/06/israeli-police-targeted-palestinians-with-discriminatory-arrests-torture-and-unlawful-force/" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/israel.png" alt=""/>
+                        <p class = "definition"> Israeli Police Violations - mapping arrests, torture, and unlawful force 
+                        </p>
+                    </a>
+                        <p class="more-details"> Evidence Documentation · Amnesty Int'l · 2021 </p>
+                </div> 
+
+                <div class="card type-investigations type-cartography type-data-viz">
+                    <a href ="https://storymaps.arcgis.com/stories/fd6a804a17b74f0aaa3d00b76b9ab192" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/atlas-attacks.png" alt=""/>
+                        <p class = "definition"> Atlas of Attacks - visualizing violence against healthcare globally </p>
+                    </a>
+                        <p class="more-details"> Data Processing · OSINT · 2020 </p>
+                </div> 
+
+
+                <div class="card type-product-design">
+                    <a href ="product/stashing.html" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/oak-system.gif" />
+                        <p class = "definition"> Text-editor Oak - making the tool accessible for collaboration</p>
+                        <p class="more-details"> Case Study · The New York Times · 2021 </p>
+                    </a>
+                </div>   
+
+                <div class="card type-investigations type-cartography type-data-viz">
+                    <a href ="https://storymaps.arcgis.com/stories/fd6a804a17b74f0aaa3d00b76b9ab192" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/tear-gas.png" alt=""/>
+                        <p class = "definition"> Tear Gas Investigation - documenting international abuse </p>
+                    </a>
+                        <p class="more-details"> Data Collection · Amnesty Int'l · 2020 </p>
+                </div> 
+
+                <div class="card type-product-design">
+                    <a href ="product/oak-systems.html" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/oak.gif" />
+                        <p class = "definition"> Design Systems - creating a component library for a text-editor Oak </p>
+                        <p class="more-details"> Case Study · The New York Times · 2021 </p>
+                    </a>
+                </div>  
+ 
+
+
+                <div class="card type-investigations">
+                    <a href ="https://apnews.com/article/biden-inauguration-qanon-79dd03a6dc497d6157304f8045f12cef " style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/riot.png" alt=""/>
+                        <p class = "definition"> U.S. Capitol Riot - archiving violent incidents and disinformation evidence </p>
+                        <p class="more-details"> Rapid Response Investigation · AP · 2021 </p>
+                        
+                    </a>
+                </div>  
+
+                <div class="card type-product-design">
+                    <img class = "card_img_container" src="imgs/hci.png" alt=""/>
+                    <p class = "definition"> Research Paper - guidelines for semantic element grouping in mobile UIs </p>
+                    <p class="more-details"> HCI · Marti Hearst, Peitong Duan, Diana Qing · 2021 - </p>
+                </div>  
+
+                <div class="card type-product-design">
+                    <a href ="https://autumn-detective-45e.notion.site/Dropbox-Ethically-driven-notification-system-8f70441c14454de2b8197849da27d3bd" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/dbx.png" />
+                        <p class = "definition"> Notifications Management - designing respectful volume control for collaboration </p>
+                        <p class="more-details"> Case Study · Dropbox · 2019 </p>
+                    </a>
+                </div> 
+
+
+                <div class="card type-investigations type-cartography type-data-viz">
+                    <a href ="https://www.amnesty.org/en/latest/research/2021/01/lebanon-french-less-lethal-weapons/" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/lebanon.png" alt=""/>
+                        <p class = "definition"> Lebanese Security Forces - unlawful use of French weapons in mass protests </p>
+                        <p class="more-details"> Visual Verification · Amnesty Int'l · 2019 </p>
+                        
+                    </a>
+                </div>   
+
+                <div class="card type-cartography type-data-viz">
+                    <a href ="cartography/displacement-bay.html" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/displacement-1.png" alt=""/>
+                        <p class = "definition"> Displacement - thematic mapping of select ethnic groups </p>
+                        <p class="more-details"> Graduated Point Symbol Map · 2018 </p>
+                        
+                    </a>
+                </div>    
+ 
+
+                <div class="card type-cartography type-data-viz">
+                    <a href ="cartography/art-benefits.html" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/art-map.png" alt=""/>
+                        <p class = "definition">  Sociology and Economics of Arts - mapping access to art benefits in CA </p>
+                        <p class="more-details"> Choropleth Map · Ethics of Data Classification · 2018 </p>
+                    </a>
+                </div>
+
+                <div class="card type-data-viz">
+                    <a href ="https://github.com/karinanguyen/uyghurs" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/uyghurs.png" alt=""/>
+                        <p class = "definition">  Uyghurs' Silence - visualizing world's media reports or silence on the issue </p>
+                        <p class="more-details"> Primer.ai · d3.js, Python · 2020 </p>
+                    </a>
+                </div>  
+
+                <div class="card type-data-viz">
+                    <a href ="https://www.dailycal.org/2019/08/21/assembly-bill-seeks-to-change-rules-of-engagement-for-california-police/" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/force-policy.png" alt=""/>
+                        <p class = "definition"> AB392 - visualizing passed law on police use of force in California </p>
+                        <p class="more-details"> Information News Graphic · Daily Californian · 2019 </p>
+                    </a>
+                </div>   
+
+                <div class="card type-web-apps">
+                    <a href ="https://apps.apple.com/us/app/1951-coffee-trainee/id1496686726" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/1951.png" alt=""/>
+                        <p class = "definition"> 1951 Coffee - a mobile app for refugees barista training </p>
+                        <p class="more-details"> Blueprint, Tech for NPOs · React · 2019 </p>
+                    </a>
+                </div>  
+
+
+                <div class="card type-data-viz">
+                    <a href ="https://www.dailycal.org/2019/07/10/safeway-community-markets-to-bring-back-andronicos-name/" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/markets.png" alt=""/>
+                        <p class = "definition">  Safeway -  illustrating brand's history </p>
+                        <p class="more-details"> Information News Graphic · Daily Californian · 2019 </p>
+                    </a>
+                </div>   
+
+                
+                <div class="card type-web-apps">
+                    <a href ="https://medium.com/blueprint/we-care-solar-a-project-recap-11b0025ac30c" style="text-decoration: none; color: black;" target="_blank"> 
+                        <img class = "card_img_container" src="imgs/wcs.png" alt=""/>
+                        <p class = "definition"> We Care Solar - providing rural midwives the necessary tools to safely deliver children </p>
+                        <p class="more-details"> Blueprint, Tech for NPOs · React · 2020 </p>
+                    </a>
+                </div>  
+
+                <div class="card type-data-viz">
+                    <a href ="https://www.dailycal.org/2019/07/24/students-strike-a-balance-between-academics-and-part-time-employment/" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/work-study.png" alt=""/>
+                        <p class = "definition">  UC Labor - work-study explainer </p>
+                        <p class="more-details"> Information News Graphic · Daily Californian · 2019 </p>
+                    </a>
+                </div>  
+
+                <div class="card type-data-viz">
+                    <a href ="https://www.dailycal.org/2019/07/02/berkeley-raises-minimum-wage-to-15-59-citing-employment-statistics-after-previous-increase/" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/wage.png" alt=""/>
+                        <p class = "definition">  Minimum Wage Raised - illustrating employment statistics and new policy </p>
+                        <p class="more-details"> Information News Graphic · Daily Californian · 2019 </p>
+                    </a>
+                </div> 
+
+
+                <div class="card type-product-design">
+                    <a href ="https://autumn-detective-45e.notion.site/Mesh-Reimagining-a-more-Humane-Command-Line-42140fd0338f47b19b9d365ecf7cce56" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/mesh.png" />
+                        <p class = "definition"> Mesh - a more humane command line</p>
+                        <p class="more-details"> Case Study · Electron App · 2019 </p>
+                    </a>
+                </div>   
+
+                <div class="card type-product-design">
+                    <a href ="https://paper.dropbox.com/doc/Unleashing-the-creative-energy-for-the-Michelin-Star-Chefs--BZP2IzuH_Jq34aP8mW2kKzbpAQ-J2WUiCfRyGpVAPx98TO9j" style="text-decoration: none; color: black;" target="_blank">
+                        <img class = "card_img_container" src="imgs/chefs.png" />
+                        <p class = "definition"> The Tuck Shop - creating a budgeting menu tooling for chefs</p>
+                        <p class="more-details"> Case Study ·Dropbox · 2019 </p>
+                    </a>
+                </div>    
+
+                
+
+                
+                
+            
+
+
+
+
+
+
+
+            </div>
+
+        </main>
+    </body>
+    <script src="./work.js"></script>
+
+
+
+</html> 
