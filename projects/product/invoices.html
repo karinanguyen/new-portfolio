@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+    <head>
+        <link rel="stylesheet" href="../../styles/work.css"> 
+    </head>
+
+    <body>
+
+            <nav class="tabs">
+                <a href="/" style = "transform: rotate(-3.74deg); background-color: #cdbbcd;">Home</a>
+                <a href="/projects/" style = "transform: rotate(2.31deg); background-color: #dfdfdf;">Work & Projects</a>
+                <a href="/projects/" style = "transform: rotate(-2.8deg); background-color: #b6c7cb;">Research</a> 
+                <a href="/projects/" style = "background-color: #d9c0c0;">Notes & Thoughts </a> 
+                <a href="/projects/" style = "transform: rotate(2.31deg); background-color: #cbbca2;">Photography </a>    
+            </nav> 
+
+            <main>
+
+                <header>
+                    <h1 class="title-design"> Batch Invoicing </h1> 
+                </header>
+                <div class = "content-block">
+                    <p class = "meta-data">
+                        Square (Blocks) · Seller Team · 2020
+                    </p>
+                    <p class = "context">
+                        <a href = "https://squareup.com/us/en/invoices" style=" color: rgb(77, 77, 77);; text-decoration: underline; font-weight: 800;"> Invoices</a> is working on smarter invoicing software and tooling that helps sellers to manage cash flow, streamline business workflows, and efficiently run business operations (i.e. sending recurring invoices, scheduling automatic payments, accepting payments, and tracking in real-time).  
+                    </p>
+
+                    <img class = "img_container" src="../imgs/invoices.png" alt=""/> 
+
+                    <p class="section">
+                        Context
+                    </p>
+
+                    <p class = "context-p">
+                        I was working on designing a new paid feature called batch invoicing that enables users to create and send invoices or estimates to a group of customers where the content is otherwise the same (e.g., monthly wine club invoices). 
+                        This is different from the existing “additional recipients" feature where it’s one invoice sent to several people. Batch invoicing will create invoices for each of the customers. Sellers need a batch creation feature to improve their workflow efficiency. 
+                    </p> 
+
+                    <p class="section">
+                        Process 
+                    </p>
+
+                    <p class = "meta-data">
+                        Job To Be Done 
+                    </p> 
+
+                    <p class = "context-p">
+                        The batch invoicing feature request has been a long running thread in the community. This new feature's users are high value invoicers, especially those with high volume of invoice transactions:  
+                        <ul class="context-list">
+                            <li class = "list-bullet" style="font-style: italic;"> I would like to request the ability to batch invoice from an email list or csv file. We are a non-profit sports club with yearly membership fees for about 400 plus people</li>
+                            <li class = "list-bullet" style="font-style: italic;">  I have 100 identical invoices to send to 100 different customers. I uploaded their data and expected to be able to select all 100 in the group and create a single invoice allowing each to renew their annual membership . . . but after some fruitless searches, it appears this feature is still not available</li>
+                        </ul>
+                    </p> 
+
+                    <p class = "meta-data">
+                        Current Flow 
+                    </p>  
+
+                    <p class="context-p">
+                        Since the need was clearly identified and problem was well-scoped, I started deconstructing existing UX patterns and invoicing behavior to identify what are the most appropriate interaction patterns and information architecture to include in the new feature.
+                        When sellers have an existing group of people or have a local database of clients, how might we seamlessly help them import and create a recurrent / new invoice. 
+                    </p>
+
+                        <img class = "img_container" src="../imgs/batch_1.png" alt=""/>   
+            
+
+                    <p class = "meta-data">
+                       Competitive Audit 
+                    </p>  
+
+                    <p class="context-p">
+                        I also looked at competitor's products such as Quickbooks, Zoho and explored their various approaches to solving the problem. The most prominents flows include duplication batching, templates-driven, and tabular batching. 
+                    </p>
+                    <img class = "img_container" src="../imgs/batch_3.png" alt=""/>  
+
+                    <p class = "meta-data">
+                        Explorations 
+                    </p>  
+
+                    <p class="context-p">
+                        One of the most essential things we had to decide was at one point of the seller's workflow we had to surface the batch feature. A lot of my initial explorations were 
+                        more focused on surfacing the feature at the beginning of the flow through a secondary CTA, a new component with the button's dropdown option, or a new extra modal. However, it introduces more friction to seller's exsiting flow. 
+                    </p> 
+                    <img class = "img_container" src="../imgs/batch_6.png" alt=""/>   
+
+                    <p class="context-p">
+                        Throughout several iteration and design crit reviews, we wanted to explore a more integrated direction, surfacing the feature at the point when it is more relevant to sellers without trading off workflow distraction at the initial creation flow. 
+                        I explored the modal approach with a segmented control depending on amount of customers a seller wants to include in the invoice. 
+                    </p>  
+
+                    <img class = "img_container" src="../imgs/batch_2.png" alt=""/> 
+                    <img class = "img_container" src="../imgs/batch_7.png" alt=""/>   
+                    
+                    
+                    <p class="context-p">
+                        At the time of the project another consideration that has helped to narrow down the solution was whether engineering capacity could afford updating all components to a new design system. 
+                        The team's priority at the time was to move to a new component library at a more gradual approach, and so it narrowed down the final design solution to a more familiar workflow for sellers, where 
+                        they can add multiple customers to create a batch invoice from a well-known flow. 
+                    </p>  
+                    <img class = "img_container" src="../imgs/batch_8.png" alt=""/>  
+
+            </main>
+    </body>
+
+</html>  
