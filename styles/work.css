@@ -188,7 +188,8 @@ label {
 #gallery-grid.computer-vision .card.type-computer-vision, 
 #gallery-grid.cartography .card.type-cartography, 
 #gallery-grid.data-viz .card.type-data-viz, 
-#gallery-grid.web-apps .card.type-web-apps {
+#gallery-grid.web-apps .card.type-web-apps,
+#gallery-grid.events .card.type-events {
     display: initial;
     margin-top: 60px; 
     margin-bottom: -60px;
@@ -321,6 +322,19 @@ label {
     font-size: 18px;  
     line-height: 26px;
     color: rgb(77, 77, 77);
+}
 
+.context-list {
+    padding-left: 150px; 
+    padding-top: 0px; 
+    font-size: 18px;  
+    line-height: 26px;
+    color: rgb(77, 77, 77); 
 
 }
+
+.list-bullet {
+    padding-bottom: 12px;  
+
+}
+
