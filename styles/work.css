@@ -15,7 +15,16 @@
 @font-face {
     font-family: "Suisse";
     src: url(../fonts/SuisseIntl-Regular.ttf);
+}
+@font-face {
+        font-family: "Financier";
+        src: url(../fonts/TestFinancierText-Regular.otf); 
 }  
+
+@font-face {
+    font-family: "Financier-2";
+    src: url(../fonts/TestFinancierDisplay-Light.otf); 
+}   
 
 ::selection {
     background: #000000;
@@ -32,7 +41,7 @@ body {
 /* Main is the layout on top of the body */
 
 main {
-    min-height: 140vh; 
+    min-height: 80vh; 
     border-radius: 30px;
     background-color: #F4F4F4; 
     margin: -60px auto;
@@ -44,6 +53,7 @@ main {
     margin-bottom: 40px;
 }
 
+
 /* Tabs */ 
 
 nav {
@@ -51,6 +61,7 @@ nav {
     margin: 45px auto;
     width: calc(100% - 60px);
     max-width: 1750px; 
+    box-sizing: border-box;
     padding-left: 126px;
 
 
@@ -189,7 +200,8 @@ label {
 #gallery-grid.cartography .card.type-cartography, 
 #gallery-grid.data-viz .card.type-data-viz, 
 #gallery-grid.web-apps .card.type-web-apps,
-#gallery-grid.events .card.type-events {
+#gallery-grid.events .card.type-events, 
+#gallery-grid.generative-art .card.type-generative-art {
     display: initial;
     margin-top: 60px; 
     margin-bottom: -60px;
@@ -336,5 +348,40 @@ label {
 .list-bullet {
     padding-bottom: 12px;  
 
+}
+
+.main-paragraph {
+    margin-left: 130px;
+    padding-top: 120px;
+    max-width: 1400px; 
+}
+
+.main-text {
+    font-size: 36px;
+    max-width: 64ch; 
+    font-family: "Financier-2";
+    text-align: left;  
+
+}
+
+.main-header {
+    font-size: 42px;
+    font-weight: 800;
+    max-width: 64ch; 
+    font-family: "Financier-2";
+    text-align: left;  
+
+}
+
+footer.social-footer {
+    overflow: hidden;
+}
+
+.social-bit {
+    font-size: 25px; 
+    font-weight: 600;
+    float: left;
+    margin-right: 3ch;
+    font-family: "Financier-2"; 
 }
 
