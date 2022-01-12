@@ -164,7 +164,7 @@ input[type=checkbox]:checked::after {
 
 
 label {
-    cursor: pointer;
+    /* cursor: pointer; */
     display: flex;
     font-size: 1.5rem;
     align-items: center;
@@ -191,6 +191,7 @@ label {
 
 .card {
     display: none;
+    cursor: crosshair;
 }
 
 #gallery-grid.product-design .card.type-product-design,
@@ -205,6 +206,7 @@ label {
     display: initial;
     margin-top: 60px; 
     margin-bottom: -60px;
+    cursor: crosshair;
 
 }
 
@@ -212,29 +214,38 @@ label {
     max-width: 100%;
     object-fit: cover;
     filter: grayscale(100%);
+    cursor: crosshair;
+    /* box-sizing: border-box; */
     /* border-radius: 10px; */
+    /* height: 0; */
 
 }
 
 .card_img_container:hover {
     filter: grayscale(0%);
     transition-duration: 1.5s;
+    cursor: crosshair;
+    transform: scale(1.01);
 }
 
 
 #gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 6rem;
+    grid-template-columns: repeat(3, minmax(400px, 1fr));
+    gap: 2rem;
     margin: 0 auto;
     max-width: 1400px;
     margin-left: 120px;
     align-items: stretch;
+    cursor: crosshair;
 }
 
 .definition {
     font-size: 18px;
     line-height: 28px;
+    cursor: crosshair;
+    color: rgba(0, 0, 1, 0.75);
+    /* margin-top: 0px; */
     /* position: relative;  */
     
     
@@ -242,9 +253,12 @@ label {
 
 .more-details {
     font-size: 16px; 
+    /* color: rgba(99, 99, 99, 0.85); */
     color: #a7a7a7;
     font-weight: 200;
     margin-top: -10px;
+    cursor: crosshair;
+    font-style: italic;
 
 }
 
@@ -384,4 +398,6 @@ footer.social-footer {
     margin-right: 3ch;
     font-family: "Financier-2"; 
 }
+
+
 
