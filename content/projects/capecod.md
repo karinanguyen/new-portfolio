@@ -1,5 +1,5 @@
 ---
-title: "Exploring Environment: Abandoned House at the Cape Code."
+title: "Exploring Environment"
 type: "generative-art"
 external: "https://www.newhampton.org/news-detail?pk=1088994"
 image: "capecod.png"

@@ -1,7 +1,7 @@
 ---
 title: "Stashed Text in Oak"
 type: "product-design"
-external: "https://karinanguyen.com/projects/product/oak-systems.html"
+external: inline
 image: "oak.gif"
 description: "Design Case Study ·  Making the tool accessible for collaboration · The New York Times"
 year: "2021"
