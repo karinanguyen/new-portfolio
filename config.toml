@@ -1,0 +1,5 @@
+baseURL = 'http://karinanguyen.com/'
+languageCode = 'en-us'
+title = 'Karina Nguyen'
+
+publishDir = 'docs'

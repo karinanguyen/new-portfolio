@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<header>
+    <h1 class="title-design">{{ .Title }}</h1>
+</header>
+
+<article class="content-block">
+    <div class="meta-data">
+    {{ if .Params.Year }}
+        {{ .Params.Description }} · {{ .Params.Year }}
+    {{ else }}
+        {{ if .Date }}
+            {{ .Date.Format "2 Jan 2006" }}
+        {{ end }}
+    {{ end }}
+    </div>
+
+    {{ .Content }}
+</article>
+
+{{ end }}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="/styles/work.css"> 
+
+
+    <title>Batch Invoices | Karina Nguyen</title>
+    <link rel="canonical" href="http://karinanguyen.com/projects/batch/" />
+
+    
+    <meta property="og:url" content="http://karinanguyen.com/projects/batch/" />
+    <meta property="og:title" content="Batch Invoices" />
+    <meta property="og:description" content="Invoices is working on smarter invoicing software and tooling that helps sellers to manage cash flow, streamline business workflows, and efficiently run business operations (i.e. sending recurring invoices, scheduling automatic payments, accepting payments, and tracking in real-time).
+Context I was working on designing a new paid feature called batch invoicing that enables users to create and send invoices or estimates to a group of customers where the content is otherwise the same (e." />
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Batch Invoices">
+    <meta name="twitter:description" content="Invoices is working on smarter invoicing software and tooling that helps sellers to manage cash flow, streamline business workflows, and efficiently run business operations (i.e. sending recurring invoices, scheduling automatic payments, accepting payments, and tracking in real-time).
+Context I was working on designing a new paid feature called batch invoicing that enables users to create and send invoices or estimates to a group of customers where the content is otherwise the same (e.">
+
+    
+    <meta property="og:image" content="http://karinanguyen.com//img/batch.png" />
+    <meta name="twitter:image" content="http://karinanguyen.com//img/batch.png" />
+    
+</head>
+
+<body>
+    <nav class="tabs">
+    <a href="/" style = "transform: rotate(-3.74deg); background-color: #cdbbcd;">Home</a>
+    <a href="/projects/" style = "transform: rotate(2.31deg); background-color: #dfdfdf;">Work & Projects</a>
+    <a href="/research/" style = "transform: rotate(-2.8deg); background-color: #b6c7cb;">Research</a> 
+    <a href="/writing/" style = "background-color: #d9c0c0;">Writing </a> 
+    <a href="/photography/" style = "transform: rotate(2.31deg); background-color: #cbbca2;">Photography </a>    
+</nav>
+
+    <main
+        >
+
+        
+
+<header>
+    <h1 class="title-design">Batch Invoices</h1>
+</header>
+
+<article class="content-block">
+    <div class="meta-data">
+    
+        Design Case Study · Designing a paid feature for invoice batch creation · Square · 2020
+    
+    </div>
+
+    <p><a href="https://squareup.com/us/en/invoices">Invoices</a> is working on smarter invoicing software and tooling that helps sellers to manage cash flow, streamline business workflows, and efficiently run business operations (i.e. sending recurring invoices, scheduling automatic payments, accepting payments, and tracking in real-time).</p>
+<p><img src="/imgs/invoices.png" alt=""></p>
+<h2 id="context">Context</h2>
+<p>I was working on designing a new paid feature called batch invoicing that enables users to create and send invoices or estimates to a group of customers where the content is otherwise the same (e.g., monthly wine club invoices). This is different from the existing “additional recipients&quot; feature where it’s one invoice sent to several people. Batch invoicing will create invoices for each of the customers. Sellers need a batch creation feature to improve their workflow efficiency.</p>
+<h2 id="process">Process</h2>
+<h3 id="job-to-be-done">Job To Be Done</h3>
+<p>The batch invoicing feature request has been a long running thread in the community. This new feature&rsquo;s users are high value invoicers, especially those with high volume of invoice transactions:</p>
+<ul>
+<li>I would like to request the ability to batch invoice from an email list or csv file. We are a non-profit sports club with yearly membership fees for about 400 plus people</li>
+<li>I have 100 identical invoices to send to 100 different customers. I uploaded their data and expected to be able to select all 100 in the group and create a single invoice allowing each to renew their annual membership . . . but after some fruitless searches, it appears this feature is still not available</li>
+</ul>
+<h3 id="current-flow">Current Flow</h3>
+<p>Since the need was clearly identified and problem was well-scoped, I started deconstructing existing UX patterns and invoicing behavior to identify what are the most appropriate interaction patterns and information architecture to include in the new feature. When sellers have an existing group of people or have a local database of clients, how might we seamlessly help them import and create a recurrent / new invoice.</p>
+<p><img src="/imgs/batch_1.png" alt=""></p>
+<h3 id="competitive-audit">Competitive Audit</h3>
+<p>I also looked at competitor&rsquo;s products such as Quickbooks, Zoho and explored their various approaches to solving the problem. The most prominents flows include duplication batching, templates-driven, and tabular batching.</p>
+<p><img src="/imgs/batch_3.png" alt=""></p>
+<h3 id="explorations">Explorations</h3>
+<p>One of the most essential things we had to decide was at one point of the seller&rsquo;s workflow we had to surface the batch feature. A lot of my initial explorations were more focused on surfacing the feature at the beginning of the flow through a secondary CTA, a new component with the button&rsquo;s dropdown option, or a new extra modal. However, it introduces more friction to seller&rsquo;s exsiting flow.</p>
+<p><img src="/imgs/batch_6.png" alt=""></p>
+<p>Throughout several iteration and design crit reviews, we wanted to explore a more integrated direction, surfacing the feature at the point when it is more relevant to sellers without trading off workflow distraction at the initial creation flow. I explored the modal approach with a segmented control depending on amount of customers a seller wants to include in the invoice.</p>
+<p><img src="/imgs/batch_2.png" alt=""> <img src="../imgs/batch_7.png" alt=""></p>
+<p>At the time of the project another consideration that has helped to narrow down the solution was whether engineering capacity could afford updating all components to a new design system. The team&rsquo;s priority at the time was to move to a new component library at a more gradual approach, and so it narrowed down the final design solution to a more familiar workflow for sellers, where they can add multiple customers to create a batch invoice from a well-known flow.</p>
+<p><img src="/imgs/batch_8.png" alt=""></p>
+
+</article>
+
+
+    </main>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css" />
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="">
+</body>
+
+</html>

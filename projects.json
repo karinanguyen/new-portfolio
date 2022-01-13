@@ -1,0 +1,581 @@
+[
+    {
+        "title": "Sudan",
+        "type": [
+            "investigations"
+        ],
+        "external": null,
+        "image": "sudan.png",
+        "description": "Confidential investigations with SITU Research",
+        "year": "2021"
+    },
+    {
+        "title": "Lghtfield Camera Simulation",
+        "type": [
+            "computer-vision"
+        ],
+        "external": "https://www.karinanguyen.co/projects/lightfield/index.html",
+        "image": "lightfield.png",
+        "description": "Computational Photography · OpenCV",
+        "year": "2021"
+    },
+    {
+        "title": "After the Strike in Beit Hanoun, Gaza",
+        "type": [
+            "investigations"
+        ],
+        "external": "https://situ.nyc/research/projects/after-the-strike",
+        "image": "gaza.png",
+        "description": "Reconstructing timeline of structural changes · AP, SITU Research",
+        "year": "2021"
+    },
+    {
+        "title": "War crimes in Syria",
+        "type": [
+            "investigations"
+        ],
+        "external": null,
+        "image": "syria.png",
+        "description": "Confidential legal investigations, building universal jurisdiction cases",
+        "year": "2021"
+    },
+    {
+        "title": "Cartopia",
+        "type": [
+            "computer-vision",
+            "cartography"
+        ],
+        "external": null,
+        "image": "gan-maps.jpg",
+        "description": "Generative neural nets to understand human cartographies · Cartography Lab",
+        "year": "2021 -"
+    },
+    {
+        "title": "Bodies as Tools of Terror",
+        "type": [
+            "investigations",
+            "data-viz"
+        ],
+        "external": "https://apnews.com/article/myanmar-business-b2187c696e428139437778aeab0c43d4",
+        "image": "myanmar.png",
+        "description": "Evidence discovery, verification of systemic violence during Myanmar's coup  · AP Unique Investigations",
+        "year": "2021"
+    },
+    {
+        "title": "Lebanese Security Forces",
+        "type": [
+            "investigations",
+            "cartography",
+            "data-viz"
+        ],
+        "external": "https://www.amnesty.org/en/latest/research/2021/01/lebanon-french-less-lethal-weapons/",
+        "image": "lebanon.png",
+        "description": "Visual verification of unlawful use of French weapons in mass protests · Amnesty Int'l",
+        "year": "2019"
+    },
+    {
+        "title": "Architectural Counterforensics",
+        "type": [
+            "investigations"
+        ],
+        "external": "https://www.karinanguyen.co/archofdestr/archofdest.html",
+        "image": "archofdest.jpg",
+        "description": "Satellite Visualization · Blender",
+        "year": "2021"
+    },
+    {
+        "title": "Tear Gas Investigation",
+        "type": [
+            "investigations",
+            "cartography",
+            "data-viz"
+        ],
+        "external": "https://storymaps.arcgis.com/stories/fd6a804a17b74f0aaa3d00b76b9ab192",
+        "image": "tear-gas.png",
+        "description": "Data collection, documenting international abuse  · Amnesty Int'l",
+        "year": "2020"
+    },
+    {
+        "title": "Construite",
+        "type": [
+            "generative-art"
+        ],
+        "external": "https://twitter.com/karinanguyen_/status/1459695108610084866",
+        "image": "construite.png",
+        "description": "Points, Lines, & Systems · canvas-sketch",
+        "year": "2021"
+    },
+    {
+        "title": "Urban Impact of Drones",
+        "type": [
+            "investigations",
+            "cartography",
+            "data-viz"
+        ],
+        "external": "https://karinanguyen.com/projects/cartography/urban-strikes.html",
+        "image": "drone-strike-yemen.jpg",
+        "description": "Counter-mapping, cartographic impact on area in Yemen, Libya · Illustrator",
+        "year": "2021"
+    },
+    {
+        "title": "Mapping Israeli Police Violations",
+        "type": [
+            "investigations",
+            "cartography",
+            "data-viz"
+        ],
+        "external": "https://www.amnesty.org/en/latest/news/2021/06/israeli-police-targeted-palestinians-with-discriminatory-arrests-torture-and-unlawful-force/",
+        "image": "israel.png",
+        "description": "Evidence documentation of arrests, torture, and unlawful force  · Amnesty Int'l",
+        "year": "2021"
+    },
+    {
+        "title": "Atlas of Attacks",
+        "type": [
+            "investigations",
+            "cartography",
+            "data-viz"
+        ],
+        "external": "https://storymaps.arcgis.com/stories/fd6a804a17b74f0aaa3d00b76b9ab192",
+        "image": "atlas-attacks.png",
+        "description": "Data processing, visualizing violence against healthcare globally · OSINT",
+        "year": "2020"
+    },
+    {
+        "title": "Prokudin-Gorskii's Colorization Gallery",
+        "type": [
+            "computer-vision"
+        ],
+        "external": "https://inst.eecs.berkeley.edu/~cs194-26/fa21/upload/files/proj1/cs194-26-aha/",
+        "image": "colorized.png",
+        "description": "Image Processing · Computational Photography",
+        "year": "2021"
+    },
+    {
+        "title": "Ganstructivism",
+        "type": [
+            "generative-art",
+            "computer-vision"
+        ],
+        "external": "https://twitter.com/karinanguyen_/status/1446624497117790211",
+        "image": "ganstructivism.png",
+        "description": "Points, Lines, & Systems · styleGAN",
+        "year": "2021"
+    },
+    {
+        "title": "Relvars",
+        "type": [
+            "generative-art",
+            "computer-vision"
+        ],
+        "external": "https://twitter.com/karinanguyen_/status/1445062263434452993",
+        "image": "relvars.png",
+        "description": "Points, Lines, & Systems · styleGAN",
+        "year": "2021"
+    },
+    {
+        "title": "Text-editor Oak",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://karinanguyen.com/projects/product/stashing.html",
+        "image": "oak-system.gif",
+        "description": "Design Case Study ·  Making the tool accessible for collaboration · The New York Times",
+        "year": "2021"
+    },
+    {
+        "title": "Oak Library",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://karinanguyen.com/projects/product/oak-systems.html",
+        "image": "oak.gif",
+        "description": "Design Case Study · Building a design systems component library for a text-editor · The New York Times",
+        "year": "2021"
+    },
+    {
+        "title": "Uyghurs' Silence",
+        "type": [
+            "data-viz"
+        ],
+        "external": "https://github.com/karinanguyen/uyghurs",
+        "image": "uyghurs.png",
+        "description": "Visualizing world's media reports or silence on the issue · Primer.ai",
+        "year": "2020"
+    },
+    {
+        "title": "Semantic Groupings in Mobile UIs",
+        "type": [
+            "product-design"
+        ],
+        "external": null,
+        "image": "hci.png",
+        "description": "HCI Research Paper · Marti Hearst, Peitong Duan, Diana Qing",
+        "year": "2021 -"
+    },
+    {
+        "title": "NYT Widgets",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://autumn-detective-45e.notion.site/NYT-New-ways-to-learn-critical-news-from-the-New-York-Times-2ff844b8e4ea481c94ff91bbf3442a15",
+        "image": "widgets.png",
+        "description": "Design Case Study · New way to learn critical news · The New York Times",
+        "year": "2020"
+    },
+    {
+        "title": "Application Catalog",
+        "type": [
+            "product-design",
+            "web-apps"
+        ],
+        "external": "https://karinanguyen.com/projects/product/appcatalog.html",
+        "image": "ac.png",
+        "description": "Design Case Study · Building a new software tool for developers, where truth is also essential · The New York Times",
+        "year": "2020-2021"
+    },
+    {
+        "title": "Virtual Terminal",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://karinanguyen.com/projects/product/webpos.html",
+        "image": "webpos.gif",
+        "description": "Design Case Study · Designing new workflows for Square's web point of sale · Square",
+        "year": "2020"
+    },
+    {
+        "title": "Batch Invoices",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://karinanguyen.com/projects/product/invoices.html",
+        "image": "batch.png",
+        "description": "Design Case Study · Designing a paid feature for invoice batch creation · Square",
+        "year": "2020"
+    },
+    {
+        "title": "Capitol Riot",
+        "type": [
+            "investigations"
+        ],
+        "external": "https://apnews.com/article/biden-inauguration-qanon-79dd03a6dc497d6157304f8045f12cef",
+        "image": "riot.png",
+        "description": "Rapid Response Investigation · Archiving violent incidents and disinformation evidence · AP",
+        "year": "2021"
+    },
+    {
+        "title": "Notifications Management",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://autumn-detective-45e.notion.site/Dropbox-Ethically-driven-notification-system-8f70441c14454de2b8197849da27d3bd",
+        "image": "dbx.png",
+        "description": "Design Case Study · designing respectful volume control for collaboration · Dropbox",
+        "year": "2019"
+    },
+    {
+        "title": "Mesh",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://autumn-detective-45e.notion.site/Mesh-Reimagining-a-more-Humane-Command-Line-42140fd0338f47b19b9d365ecf7cce56",
+        "image": "mesh.png",
+        "description": "Designing a more humane command line · Case Study",
+        "year": "2019"
+    },
+    {
+        "title": "Chefs Budgeting Tool",
+        "type": [
+            "product-design"
+        ],
+        "external": "https://paper.dropbox.com/doc/Unleashing-the-creative-energy-for-the-Michelin-Star-Chefs--BZP2IzuH_Jq34aP8mW2kKzbpAQ-J2WUiCfRyGpVAPx98TO9j",
+        "image": "chefs.png",
+        "description": "creating a budgeting menu tooling for chefs in Tuck Shop · Case Study · Dropbox",
+        "year": "2019"
+    },
+    {
+        "title": "Ethnic Displacement",
+        "type": [
+            "cartography",
+            "data-viz"
+        ],
+        "external": "https://karinanguyen.com/projects/cartography/displacement-bay.html",
+        "image": "displacement-1.png",
+        "description": "Thematic mapping of select ethnic groups · Graduated Point Symbol Map",
+        "year": "2018"
+    },
+    {
+        "title": "1951 Coffee",
+        "type": [
+            "web-apps"
+        ],
+        "external": "https://apps.apple.com/us/app/1951-coffee-trainee/id1496686726",
+        "image": "1951.png",
+        "description": "Building a mobile app for refugees barista training · Blueprint, Tech for NPOs",
+        "year": "2019"
+    },
+    {
+        "title": "Community Grows",
+        "type": [
+            "graphic-design"
+        ],
+        "external": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4a6ad8b9-7d1a-4fe0-86b8-459d6973f1d9/CommunityGrows-BrandGuidelines-Final-Oct2019.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220106T172118Z&X-Amz-Expires=86400&X-Amz-Signature=e0b3ab0a9a72cf7eaec9d6e1fe58ab79715ad64d4c65f0b8c42fccaae3ebcbb9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22CommunityGrows-BrandGuidelines-Final-Oct2019.pdf%22&x-id=GetObject",
+        "image": "cg.png",
+        "description": "Reflecting garden's growth in low-income areas with geometric strokes · Branding",
+        "year": "2019"
+    },
+    {
+        "title": "Hack for Social Impact Summit 2019",
+        "type": [
+            "events"
+        ],
+        "external": "https://h4sis.calblueprint.org/",
+        "image": "h4sis.png",
+        "description": "Event Creator · Blueprint, Tech for NPOs",
+        "year": "2019"
+    },
+    {
+        "title": "Creatives Collective",
+        "type": [
+            "graphic-design",
+            "web-apps"
+        ],
+        "external": "https://www.karinanguyen.co/projects/project1.html",
+        "image": "lovers.png",
+        "description": "Creating visual design assets and developing special pages · Lovers Mag (former Interface Lovers)",
+        "year": "2020"
+    },
+    {
+        "title": "Sociology and Economics of Arts",
+        "type": [
+            "cartography",
+            "data-viz"
+        ],
+        "external": "https://karinanguyen.com/projects/cartography/art-benefits.html",
+        "image": "art-map.png",
+        "description": "Mapping access to art benefits in CA · Choropleth Map",
+        "year": "2018"
+    },
+    {
+        "title": "AB392",
+        "type": [
+            "data-viz"
+        ],
+        "external": "https://www.dailycal.org/2019/08/21/assembly-bill-seeks-to-change-rules-of-engagement-for-california-police/",
+        "image": "force-policy.png",
+        "description": "Visualizing passed law on police use of force in CA ·  Information News Graphic · Daily Californian",
+        "year": "2019"
+    },
+    {
+        "title": "Safeway Brand's History",
+        "type": [
+            "data-viz"
+        ],
+        "external": "https://www.dailycal.org/2019/07/10/safeway-community-markets-to-bring-back-andronicos-name/",
+        "image": "markets.png",
+        "description": "Information News Graphic · Daily Californian",
+        "year": "2019"
+    },
+    {
+        "title": "We Care Solar",
+        "type": [
+            "web-apps"
+        ],
+        "external": "https://medium.com/blueprint/we-care-solar-a-project-recap-11b0025ac30c",
+        "image": "wcs.png",
+        "description": "Providing rural midwives the necessary tools to safely deliver children · Blueprint, Tech for NPOs · React",
+        "year": "2020"
+    },
+    {
+        "title": "UC Labor Visual Explainer",
+        "type": [
+            "data-viz"
+        ],
+        "external": "https://www.dailycal.org/2019/07/24/students-strike-a-balance-between-academics-and-part-time-employment/",
+        "image": "work-study.png",
+        "description": "Information News Graphic · Daily Californian",
+        "year": "2019"
+    },
+    {
+        "title": "Minimum Wage Raised",
+        "type": [
+            "data-viz"
+        ],
+        "external": "https://www.dailycal.org/2019/07/02/berkeley-raises-minimum-wage-to-15-59-citing-employment-statistics-after-previous-increase/",
+        "image": "wage.png",
+        "description": "Illustrating employment statistics and new policy · Information News Graphic · Daily Californian",
+        "year": "2019"
+    },
+    {
+        "title": "MLK",
+        "type": [
+            "graphic-design"
+        ],
+        "external": "http://literati.newhampton.org/blog/2018/1/11/martin-luther-king-jr-day",
+        "image": "mlk.png",
+        "description": "Editor in Chief · Literati Magazine",
+        "year": "2018"
+    },
+    {
+        "title": "Hallo",
+        "type": [
+            "graphic-design"
+        ],
+        "external": "https://karinanguyen.com/projects/graphics/hallo.html",
+        "image": "hallo.png",
+        "description": "Visual Assets",
+        "year": "2020"
+    },
+    {
+        "title": "Crating Vocabulary for Berkeley Crossword",
+        "type": [
+            "graphic-design"
+        ],
+        "external": "https://www.dailycal.org/2019/08/19/crossword-berkeley-words-to-learn-if-youre-a-clueless-new-admit/",
+        "image": "crossword.png",
+        "description": "Special Issues Graphic · Daily Californian",
+        "year": "2019"
+    },
+    {
+        "title": "WiTI",
+        "type": [
+            "graphic-design"
+        ],
+        "external": "https://karinanguyen.com/projects/graphics/witi.html",
+        "image": "witi.png",
+        "description": "Developing an identity for the intellectual ecosystem · Branding · CITRIS & the Banatao Institute",
+        "year": "2018"
+    },
+    {
+        "title": "New Yorker Caption Contests",
+        "type": [
+            "graphic-design"
+        ],
+        "external": "http://literati.newhampton.org/blog/2016/12/3/caption-contest",
+        "image": "literati.png",
+        "description": "Editor in Chief · Literati Magazine",
+        "year": "2016"
+    },
+    {
+        "title": "Ethics, Empathy, and Engineering with Notion",
+        "type": [
+            "events"
+        ],
+        "external": "https://www.facebook.com/events/1302184349962542/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "image": "notion.jpg",
+        "description": "Vice President · Blueprint, Tech for NPOs",
+        "year": "2019"
+    },
+    {
+        "title": "Coding it Forward",
+        "type": [
+            "events"
+        ],
+        "external": "https://www.facebook.com/events/1349253861911204/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "image": "cif.png",
+        "description": "Vice President · Blueprint, Tech for NPOs",
+        "year": "2019"
+    },
+    {
+        "title": "11th National Conference",
+        "type": [
+            "graphic-design",
+            "events"
+        ],
+        "external": "http://11nsc.tilda.ws/",
+        "image": "eyp.png",
+        "description": "Logo / Event Organizer · European Youth Parliament",
+        "year": "2017"
+    },
+    {
+        "title": "Barrier of Trust. Openness.",
+        "type": [
+            "generative-art"
+        ],
+        "external": null,
+        "image": "barriers.png",
+        "description": "Acrylic Paints · 122 x 50 cm (WxH)",
+        "year": "2017"
+    },
+    {
+        "title": "Exploring Environment: Abandoned House at the Cape Code.",
+        "type": [
+            "generative-art"
+        ],
+        "external": "https://www.newhampton.org/news-detail?pk=1088994",
+        "image": "capecod.png",
+        "description": "Exhibited at Plymouth State University Gallery (KDAG) · Mixed Media (sand, watercolor) · 67 x 50.5 cm (WxH)",
+        "year": "2017"
+    },
+    {
+        "title": "West Dennis Beach.",
+        "type": [
+            "generative-art"
+        ],
+        "external": null,
+        "image": "print.png",
+        "description": "Exhibited at Davidow Center for Art + Design, Colby-Sawyer College · Mixed Media (oil paint, wood, fabric) · 64 x 24 cm (WxH)",
+        "year": "2017"
+    },
+    {
+        "title": "A Sense in Symmetry.",
+        "type": [
+            "generative-art"
+        ],
+        "external": "https://www.newhampton.org/news-detail?pk=1092769",
+        "image": "sensesymm.png",
+        "description": "Awarded with Gold Key at Scholastic Art Awards· Photography · 60 x 49.5 cm (WxH)",
+        "year": "2017"
+    },
+    {
+        "title": "The Future of Fashion.",
+        "type": [
+            "generative-art"
+        ],
+        "external": null,
+        "image": "futurefash.png",
+        "description": "Exhibited at Galletly Gallery, New Hampton · Mixed Media (tracing paper, dried flowers) · 70 x 20 x 25 cm (WxHxD)",
+        "year": "2016"
+    },
+    {
+        "title": "A Sense of Touch",
+        "type": [
+            "generative-art"
+        ],
+        "external": null,
+        "image": "sensetouch.png",
+        "description": "Exhibited at Galletly Gallery, New Hampton · Photography · 38 x 31 cm (WxH)",
+        "year": "2016"
+    },
+    {
+        "title": "The City Beautiful",
+        "type": [
+            "generative-art"
+        ],
+        "external": null,
+        "image": "arch1.png",
+        "description": "Exhibited at Kharkiv Local Gallery, Ukraine · Mixed (styrofoam, paper, white threads) · 30 x 50 x 25 cm (WxHxD)",
+        "year": "2015"
+    },
+    {
+        "title": "Spatial Rhythm",
+        "type": [
+            "generative-art"
+        ],
+        "external": null,
+        "image": "arch2.png",
+        "description": "Exhibited at Kharkiv Local Gallery, Ukraine · Mixed (styrofoam, paper, white threads) · 66 x 50 x 36 cm (WxHxD)",
+        "year": "2015"
+    },
+    {
+        "title": "What if?",
+        "type": [
+            "generative-art"
+        ],
+        "external": null,
+        "image": "arch3.png",
+        "description": "Exhibited at Kharkiv Local Gallery, Ukraine · Mixed (styrofoam, paper, white threads) · 58 x 50 x 36 cm (WxHxD)",
+        "year": "2015"
+    }
+]

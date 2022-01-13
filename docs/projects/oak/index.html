@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="/styles/work.css"> 
+
+
+    <title>Stashed Text in Oak | Karina Nguyen</title>
+    <link rel="canonical" href="http://karinanguyen.com/projects/oak/" />
+
+    
+    <meta property="og:url" content="http://karinanguyen.com/projects/oak/" />
+    <meta property="og:title" content="Stashed Text in Oak" />
+    <meta property="og:description" content="Oak is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.
+Context Since the conception of the tool, Publishing Tools team has been working on many cool custom features." />
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Stashed Text in Oak">
+    <meta name="twitter:description" content="Oak is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.
+Context Since the conception of the tool, Publishing Tools team has been working on many cool custom features.">
+
+    
+    <meta property="og:image" content="http://karinanguyen.com//img/oak.gif" />
+    <meta name="twitter:image" content="http://karinanguyen.com//img/oak.gif" />
+    
+</head>
+
+<body>
+    <nav class="tabs">
+    <a href="/" style = "transform: rotate(-3.74deg); background-color: #cdbbcd;">Home</a>
+    <a href="/projects/" style = "transform: rotate(2.31deg); background-color: #dfdfdf;">Work & Projects</a>
+    <a href="/research/" style = "transform: rotate(-2.8deg); background-color: #b6c7cb;">Research</a> 
+    <a href="/writing/" style = "background-color: #d9c0c0;">Writing </a> 
+    <a href="/photography/" style = "transform: rotate(2.31deg); background-color: #cbbca2;">Photography </a>    
+</nav>
+
+    <main
+        >
+
+        
+
+<header>
+    <h1 class="title-design">Stashed Text in Oak</h1>
+</header>
+
+<article class="content-block">
+    <div class="meta-data">
+    
+        Design Case Study ·  Making the tool accessible for collaboration · The New York Times · 2021
+    
+    </div>
+
+    <p><a href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21">Oak</a> is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.</p>
+<p><img src="/imgs/oak-system.gif" alt=""></p>
+<h2 id="context">Context</h2>
+<p>Since the conception of the tool, Publishing Tools team has been working on many cool custom features. I worked on a feature called stashing that lets a reporter or editor hide text during collaboration. It’s a way for newsroom to leave a note in the body without it getting published.</p>
+<p>Text shashing in both tracked and untracked modes was inaccessible. It had a very low level contrast. This especially impacted color blinded journalists / editors. We also wanted to make sure the new styling didn&rsquo;t conflict with all the other text states, like tracked changes and spelling/grammar error highlights.</p>
+<h2 id="solution">Solution</h2>
+<p><img src="/imgs/stashed-1.png" alt=""></p>
+<p>Throughout the process I have considered typeface choices based on x-height and aspect ratio, so that the solution would be compatible with current uses of fonts. It was also interesting to discover that old stash implementation confused editors as it was not clear if there was a double space between words or one space, and sometimes minor errors would be published. We had to prevent that confusion, which is why we pushed for a bordered blocks solution. We also decided to use monospace as it allowed to be visually distinct from other fonts used for normal writing or contextual blocks / explainer modules.</p>
+<p><img src="/imgs/stashed-2.png" alt=""></p>
+<h2 id="process">Process</h2>
+<h3 id="mode-layer-matrix">Mode-Layer Matrix</h3>
+<p>I started gathering information about different use cases of stashing text. Some editors would use the feature to clarify some details or ask for further evidence of the claim in an article. Some journalists would stash text to remove unnecessary parts, or in many cases, preserve the information for future references / other article pieces. I came up with matrix-layered approach to understand current stashing and address different edge cases and variations on how stashing can appear in one&rsquo;s workflow.</p>
+<p><img src="/imgs/stashing-3.png" alt=""> <img src="/imgs/stashed-4.png" alt=""></p>
+<h3 id="ideas-explorations">Ideas Explorations</h3>
+<p>We explored numerous visual strategies on how to improve stashing accessibility. From changing background color-contrast and typographic changes to more bold changes like &ldquo;code-blocks.&rdquo; Since we had a timeline for the feature, I crafted two main solutions: Hatching and Note Blocks.</p>
+<p><img src="/imgs/stashed-5.png" alt=""></p>
+<h2 id="reflections">Reflections</h2>
+<p>Historically text editors were never designed with collaboration in mind, but working on the feature helped me to think more about collaborative editing and how to mediate it fluidly in software. Thought I can&rsquo;t share much more details of the project, it was also one of the fewest projects, where I&rsquo;ve got to work closer with typography and different visual strategies in product design. Moreover, I personally learned a lot about behind-the-scenes of not only technical aspects of text-editing, but also journalistic practices and workflows specific to the Times.</p>
+
+</article>
+
+
+    </main>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css" />
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="">
+</body>
+
+</html>

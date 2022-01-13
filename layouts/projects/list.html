@@ -1,0 +1,88 @@
+{{ define "main" }}
+
+<section class="hero">
+    <h1>{{ .Title }}</h1>
+    <article>
+        {{ .Content }}
+    </article>
+</section>
+
+<div class="filters">
+    <label>
+        <input type='checkbox' id='investigations' />
+        Visual Forensics & Investigations
+    </label>
+    <label>
+        <input type='checkbox' id='product-design' />
+        HCI & Product Design
+    </label>
+    <label>
+        <input type='checkbox' id='data-viz' />
+        Data Visualizations & Stories
+    </label>
+    <label>
+        <input type='checkbox' id='cartography' />
+        Cartography / GIS
+    </label>
+    <label>
+        <input type='checkbox' id='generative-art' />
+        Generative Art, Artworks, & Exhibitions
+    </label>
+    <label>
+        <input type='checkbox' id='computer-vision' />
+        Computer Vision / ML
+    </label>
+    <label>
+        <input type='checkbox' id='web-apps' />
+        Web / Mobile Apps
+    </label>
+    <label>
+        <input type='checkbox' id='graphic-design' />
+        Graphic Design / Branding
+    </label>
+    <label>
+        <input type='checkbox' id='events' />
+        Events
+    </label>
+    <!-- <label>
+            <input type='checkbox' id='creative-writing'/>  
+            Creative writing & Editorial  
+        </label>   -->
+    <!-- <label>
+            <input type='checkbox' id='art-exhibitions'/>  
+            Art, Installations & Exhibitions 
+        </label>   -->
+</div>
+
+<div id="gallery-grid" class="">
+    {{ range ( .Pages.ByParam "order" ) }}
+    <div class="card type-{{ replace .Params.Type " " " type-"}}">
+        {{ if eq .Params.External "inline" }}
+        <a href="{{ .Permalink }}">
+            <div class="card_img_zoom_container">
+                <img class="card_img_container" src="/imgs/{{ .Params.Image }}" alt="{{ .Title }}" />
+            </div>
+            <p class="definition">{{ .Title }}</p>
+        </a>
+        {{ else }}
+            {{ if .Params.External }}
+            <a href="{{ .Params.External }}" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/{{ .Params.Image }}" alt="{{ .Title }}" />
+                </div>
+                <p class="definition">{{ .Title }}</p>
+            </a>    
+            {{ else }}
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/{{ .Params.Image }}" alt="{{ .Title }}" />
+                </div>
+                <p class="definition">{{ .Title }}</p>
+            {{ end }}
+        {{ end }}
+        <p class="more-details">{{ .Params.Description }} · {{ .Params.Year }}</p>
+    </div>
+    {{ end }}
+</div>
+<script src="/scripts/work.js"></script>
+
+{{ end }}
