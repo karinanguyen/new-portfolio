@@ -188,8 +188,8 @@ label {
 
 #gallery-grid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(400px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    gap: 5rem;
     margin: 0 auto;
     max-width: 1400px;
     margin-left: 120px;
@@ -208,8 +208,8 @@ label {
 
 .card_img_container,
 .card_img_zoom_container {
-    height: 230px;
-    width: 400px;
+    height: 260px;
+    width: 460px;
 }
 
 .card_img_container {
@@ -217,9 +217,9 @@ label {
     filter: grayscale(100%);
     cursor: crosshair;
     object-fit: cover;
-    cursor: crosshair;
     transition: transform .5s, filter .5s;
     transform: scale(1.01);
+    /* transition: all 0.2s ease-out; */
 }
 
 .card:hover .card_img_container {
@@ -237,6 +237,9 @@ label {
 
 .card:hover .definition {
     background: #FFF495;
+    /* background: #001EC9;  */
+    /* color: #42c0eb; */
+
 }
 
 .more-details {
@@ -319,18 +322,6 @@ label {
     color: rgb(77, 77, 77);
 }
 
-/* .context-list {
-    padding-left: 150px; 
-    padding-top: 0px; 
-    font-size: 18px;  
-    line-height: 26px;
-    color: rgb(77, 77, 77); 
-
-}
-
-.list-bullet {
-    padding-bottom: 12px;  
-} */
 
 .main-paragraph {
     margin-left: 130px;
@@ -384,6 +375,7 @@ a.post {
 
 a.post:hover .title {
     background: #FFF495;
+    /* background: #7ecfeb;  */
 }
 
 a.post .hline {
