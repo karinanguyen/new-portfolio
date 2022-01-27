@@ -219,7 +219,7 @@ label {
     object-fit: cover;
     transition: transform .5s, filter .5s;
     transform: scale(1.01);
-    /* transition: all 0.2s ease-out; */
+
 }
 
 .card:hover .card_img_container {
@@ -237,8 +237,7 @@ label {
 
 .card:hover .definition {
     background: #FFF495;
-    /* background: #001EC9;  */
-    /* color: #42c0eb; */
+
 
 }
 
