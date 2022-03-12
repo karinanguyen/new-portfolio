@@ -1,5 +1,18 @@
 [
     {
+        "title": "Rectify",
+        "type": [
+            "investigations",
+            "computer vision", 
+            "web-apps"
+        ],
+        "external": "https://rectify.vcflab.org/",
+        "image": "cover.png",
+        "description": "Human rights tool to extract visual details for verification",
+        "year": "2022"
+    },
+    
+    {
         "title": "Sudan",
         "type": [
             "investigations"
