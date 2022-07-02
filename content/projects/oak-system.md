@@ -1,6 +1,6 @@
 ---
 title: "Design Systems for Oak"
-type: "product-design"
+type: "product-design osint-tools"
 external: inline
 image: "oak-system.gif"
 description: "Design Case Study · Building a design systems component library for a text-editor · The New York Times"

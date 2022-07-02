@@ -3,8 +3,8 @@
         "title": "Rectify",
         "type": [
             "investigations",
-            "computer vision", 
-            "web-apps"
+            "osint-tools",
+            "computer-vision"
         ],
         "external": "https://rectify.vcflab.org/",
         "image": "cover.png",

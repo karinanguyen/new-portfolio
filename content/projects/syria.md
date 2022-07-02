@@ -1,6 +1,6 @@
 ---
-title: "War crimes in Syria"
-type: "investigations"
+title: "War crimes on Syrian hospitals"
+type: "investigations cartography"
 
 image: "syria.png"
 description: "Confidential legal investigations, building universal jurisdiction cases"

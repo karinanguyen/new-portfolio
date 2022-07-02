@@ -44,47 +44,66 @@
 <div class="filters">
     <label>
         <input type='checkbox' id='investigations' />
-        Visual Forensics & Investigations
+        Investigations & Visual Forensics    
     </label>
     <label>
-        <input type='checkbox' id='product-design' />
-        HCI & Product Design
-    </label>
+        <input type='checkbox' id='osint-tools' />
+        Tools for OSINT & Journalism
+    </label> 
     <label>
-        <input type='checkbox' id='data-viz' />
-        Data Visualizations & Stories
-    </label>
-    <label>
-        <input type='checkbox' id='cartography' />
-        Cartography / GIS
+        <input type='checkbox' id='computer-vision' />
+        ML Research & AI Experiments  
     </label>
     <label>
         <input type='checkbox' id='generative-art' />
-        Generative Art, Artworks, & Exhibitions
+        Art & Exhibitions
     </label>
     <label>
-        <input type='checkbox' id='computer-vision' />
-        Computer Vision / ML
+        <input type='checkbox' id='cartography' />
+        Geospatial, 3D, and Remote Sensing 
     </label>
     <label>
-        <input type='checkbox' id='web-apps' />
-        Web / Mobile Apps
+        <input type='checkbox' id='product-design' />
+        Software & Product Design
     </label>
+    <label>
+        <input type='checkbox' id='hardware'/>  
+            Hardware 
+    </label>
+    <label>
+        <input type='checkbox' id='data-viz' />
+        Data Visualizations & Urban Policy 
+    </label>  
+    
     <label>
         <input type='checkbox' id='graphic-design' />
         Graphic Design / Branding
     </label>
     <label>
         <input type='checkbox' id='events' />
-        Events
+        Physical Experience
     </label>
-    
+
     
 </div>
 
 <div id="gallery-grid" class="">
     
-    <div class="card type-investigations type-computer-vision type-web-apps">
+    <div class="card type-investigations type-cartography">
+        
+            
+            <a href="https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine/" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/cyber.jpg" alt="The Case for War Crimes Charges Against Russia’s Sandworm Hackers | WIRED" />
+                </div>
+                <p class="definition">The Case for War Crimes Charges Against Russia’s Sandworm Hackers | WIRED</p>
+            </a>    
+            
+        
+        <p class="more-details">First legal framework and a case for cyber warcrimes in history. Article 15(2) of the Rome Statute submission to the International Criminal Court. · 2022</p>
+    </div>
+    
+    <div class="card type-osint-tools type-product-design type-computer-vision">
         
             
             <a href="https://rectify.vcflab.org/" target="_blank">
@@ -98,7 +117,61 @@
         <p class="more-details">Human rights open-source tool to extract visual details for verification · 2022</p>
     </div>
     
+    <div class="card type-investigations type-cartography">
+        
+            
+            <a href="https://karinanguyen.users.earthengine.app/view/myanmar-fires" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/fires.png" alt="Burned Village &amp; Forests in Myanmar&#39;s Coup" />
+                </div>
+                <p class="definition">Burned Village &amp; Forests in Myanmar&#39;s Coup</p>
+            </a>    
+            
+        
+        <p class="more-details">Environmental remote sensing analysis with Sentinel-2 in Earth Engines · 2022</p>
+    </div>
+    
     <div class="card type-investigations">
+        
+            
+            <a href="https://www.cnn.com/2022/06/10/tech/ukraine-war-crimes-blockchain/index.html" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/protocol.png" alt="A Dossier to Prove Russian War Crimes | CNN" />
+                </div>
+                <p class="definition">A Dossier to Prove Russian War Crimes | CNN</p>
+            </a>    
+            
+        
+        <p class="more-details">Article 15(2) Rome Statute legal filing to ICC with Starling Lab, Hala Systems, DFRLab (OSINT freelance) · 2022</p>
+    </div>
+    
+    <div class="card type-hardware">
+        
+            
+            <a href="https://twitter.com/karinanguyen_/status/1541664413790478337" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/boz.png" alt="Boz, a Personal Computer" />
+                </div>
+                <p class="definition">Boz, a Personal Computer</p>
+            </a>    
+            
+        
+        <p class="more-details">First PC with NVIDIA RTX3070 GPU · 2022</p>
+    </div>
+    
+    <div class="card type-osint-tools type-product-design">
+        
+            
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/snutils.png" alt="Snutils | Bellingcat Tech Team" />
+                </div>
+                <p class="definition">Snutils | Bellingcat Tech Team</p>
+            
+        
+        <p class="more-details">Investigative tool for social media analyses · 2022</p>
+    </div>
+    
+    <div class="card type-investigations type-cartography">
         
             
                 <div class="card_img_zoom_container">
@@ -107,7 +180,7 @@
                 <p class="definition">Sudan</p>
             
         
-        <p class="more-details">Confidential investigations with SITU Research · 2021</p>
+        <p class="more-details">Interactive timeline for court with SITU Research · 2021</p>
     </div>
     
     <div class="card type-computer-vision">
@@ -124,7 +197,7 @@
         <p class="more-details">Computational Photography · OpenCV · 2021</p>
     </div>
     
-    <div class="card type-investigations">
+    <div class="card type-investigations type-cartography">
         
             
             <a href="https://situ.nyc/research/projects/after-the-strike" target="_blank">
@@ -138,13 +211,13 @@
         <p class="more-details">Reconstructing timeline of structural changes · AP, SITU Research · 2021</p>
     </div>
     
-    <div class="card type-investigations">
+    <div class="card type-investigations type-cartography">
         
             
                 <div class="card_img_zoom_container">
-                    <img class="card_img_container" src="/imgs/syria.png" alt="War crimes in Syria" />
+                    <img class="card_img_container" src="/imgs/syria.png" alt="War crimes on Syrian hospitals" />
                 </div>
-                <p class="definition">War crimes in Syria</p>
+                <p class="definition">War crimes on Syrian hospitals</p>
             
         
         <p class="more-details">Confidential legal investigations, building universal jurisdiction cases · 2021</p>
@@ -162,18 +235,18 @@
         <p class="more-details">Generative neural nets to understand human cartographies · Cartography Lab · 2021 -</p>
     </div>
     
-    <div class="card type-investigations type-data-viz">
+    <div class="card type-investigations type-data-viz type-cartography">
         
             
             <a href="https://apnews.com/article/myanmar-business-b2187c696e428139437778aeab0c43d4" target="_blank">
                 <div class="card_img_zoom_container">
-                    <img class="card_img_container" src="/imgs/myanmar.png" alt="Bodies as Tools of Terror" />
+                    <img class="card_img_container" src="/imgs/myanmar.png" alt="AP Investigation | Bodies as Tools of Terror" />
                 </div>
-                <p class="definition">Bodies as Tools of Terror</p>
+                <p class="definition">AP Investigation | Bodies as Tools of Terror</p>
             </a>    
             
         
-        <p class="more-details">Evidence discovery, verification of systemic violence during Myanmar&#39;s coup  · AP Unique Investigations · 2021</p>
+        <p class="more-details">Evidence discovery, verification of systemic violence during Myanmar&#39;s coup · 2021</p>
     </div>
     
     <div class="card type-investigations type-cartography type-data-viz">
@@ -190,7 +263,7 @@
         <p class="more-details">Visual verification of unlawful use of French weapons in mass protests · Amnesty Int&#39;l · 2019</p>
     </div>
     
-    <div class="card type-investigations">
+    <div class="card type-investigations type-data-viz type-cartography">
         
             
             <a href="https://www.karinanguyen.co/archofdestr/archofdest.html" target="_blank">
@@ -314,7 +387,7 @@
         <p class="more-details">Points, Lines, &amp; Systems · styleGAN · 2021</p>
     </div>
     
-    <div class="card type-product-design">
+    <div class="card type-product-design type-osint-tools">
         
         <a href="http://karinanguyen.com/projects/oak-system/">
             <div class="card_img_zoom_container">
@@ -326,7 +399,7 @@
         <p class="more-details">Design Case Study · Building a design systems component library for a text-editor · The New York Times · 2021</p>
     </div>
     
-    <div class="card type-product-design">
+    <div class="card type-product-design type-osint-tools">
         
         <a href="http://karinanguyen.com/projects/oak/">
             <div class="card_img_zoom_container">
@@ -352,7 +425,19 @@
         <p class="more-details">Visualizing world&#39;s media reports or silence on the issue · Primer.ai · 2020</p>
     </div>
     
-    <div class="card type-product-design">
+    <div class="card type-computer-vision">
+        
+        <a href="http://karinanguyen.com/projects/affect/">
+            <div class="card_img_zoom_container">
+                <img class="card_img_container" src="/imgs/affect2.png" alt="Emotion Recognition Through Voice Acoustics and Semantics with RNNs" />
+            </div>
+            <p class="definition">Emotion Recognition Through Voice Acoustics and Semantics with RNNs</p>
+        </a>
+        
+        <p class="more-details">Sociotechnical and ethnographic research with Human Context &amp; Ethics at Berkeley · 2020</p>
+    </div>
+    
+    <div class="card type-product-design type-computer-vision">
         
             
                 <div class="card_img_zoom_container">
@@ -361,7 +446,7 @@
                 <p class="definition">Semantic Groupings in Mobile UIs</p>
             
         
-        <p class="more-details">HCI Research Paper · Marti Hearst, Peitong Duan, Diana Qing · 2021 -</p>
+        <p class="more-details">Paper in Proceeding for UIST 2022 · Marti Hearst, Peitong Duan, Google Research · 2021-</p>
     </div>
     
     <div class="card type-product-design">
@@ -482,7 +567,7 @@
         <p class="more-details">Thematic mapping of select ethnic groups · Graduated Point Symbol Map · 2018</p>
     </div>
     
-    <div class="card type-web-apps">
+    <div class="card type-web-apps type-product-design">
         
             
             <a href="https://apps.apple.com/us/app/1951-coffee-trainee/id1496686726" target="_blank">
@@ -578,7 +663,7 @@
         <p class="more-details">Information News Graphic · Daily Californian · 2019</p>
     </div>
     
-    <div class="card type-web-apps">
+    <div class="card type-product-design">
         
             
             <a href="https://medium.com/blueprint/we-care-solar-a-project-recap-11b0025ac30c" target="_blank">

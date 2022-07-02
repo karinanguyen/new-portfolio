@@ -1,9 +1,9 @@
 ---
 title: "Sudan"
-type: "investigations"
+type: "investigations cartography"
 
 image: "sudan.png"
-description: "Confidential investigations with SITU Research"
+description: "Interactive timeline for court with SITU Research"
 year: "2021"
 order: 0.0
 ---

@@ -176,7 +176,8 @@ label {
 #gallery-grid.computer-vision .card.type-computer-vision, 
 #gallery-grid.cartography .card.type-cartography, 
 #gallery-grid.data-viz .card.type-data-viz, 
-#gallery-grid.web-apps .card.type-web-apps,
+#gallery-grid.hardware .card.type-hardware,
+#gallery-grid.osint-tools .card.type-osint-tools,
 #gallery-grid.events .card.type-events, 
 #gallery-grid.generative-art .card.type-generative-art {
     display: initial;

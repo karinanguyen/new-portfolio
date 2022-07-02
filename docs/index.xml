@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>A Dossier to Prove Russian War Crimes | CNN</title>
+      <link>http://karinanguyen.com/projects/protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Sense in Symmetry.</title>
       <link>http://karinanguyen.com/projects/sensesymm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -67,6 +76,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://karinanguyen.com/projects/gaza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AP Investigation | Bodies as Tools of Terror</title>
+      <link>http://karinanguyen.com/projects/myanmar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/myanmar/</guid>
       <description></description>
     </item>
     
@@ -118,11 +136,20 @@ Context I was working on designing a new paid feature called batch invoicing tha
     </item>
     
     <item>
-      <title>Bodies as Tools of Terror</title>
-      <link>http://karinanguyen.com/projects/myanmar/</link>
+      <title>Boz, a Personal Computer</title>
+      <link>http://karinanguyen.com/projects/boz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://karinanguyen.com/projects/myanmar/</guid>
+      <guid>http://karinanguyen.com/projects/boz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burned Village &amp; Forests in Myanmar&#39;s Coup</title>
+      <link>http://karinanguyen.com/projects/fires-myanmar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/fires-myanmar/</guid>
       <description></description>
     </item>
     
@@ -206,6 +233,15 @@ Context I was working on designing a new paid feature called batch invoicing tha
       <guid>http://karinanguyen.com/projects/oak-system/</guid>
       <description>Oak is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.
 Oak was designed in the browser. As a result, no full set of mockups exists.</description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition Through Voice Acoustics and Semantics with RNNs</title>
+      <link>http://karinanguyen.com/projects/affect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/affect/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -407,6 +443,15 @@ Oak was designed in the browser. As a result, no full set of mockups exists.</de
     </item>
     
     <item>
+      <title>Snutils | Bellingcat Tech Team</title>
+      <link>http://karinanguyen.com/projects/snutils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/snutils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sociology and Economics of Arts</title>
       <link>http://karinanguyen.com/projects/art-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -449,6 +494,15 @@ Context Since the conception of the tool, Publishing Tools team has been working
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://karinanguyen.com/projects/tear-gas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for War Crimes Charges Against Russia’s Sandworm Hackers | WIRED</title>
+      <link>http://karinanguyen.com/projects/cyber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/cyber/</guid>
       <description></description>
     </item>
     
@@ -508,7 +562,7 @@ Context One of the larger changes to the flow involved breaking apart cart build
     </item>
     
     <item>
-      <title>War crimes in Syria</title>
+      <title>War crimes on Syrian hospitals</title>
       <link>http://karinanguyen.com/projects/syria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

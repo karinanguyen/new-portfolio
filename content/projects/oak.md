@@ -1,6 +1,6 @@
 ---
 title: "Stashed Text in Oak"
-type: "product-design"
+type: "product-design osint-tools"
 external: inline
 image: "oak.gif"
 description: "Design Case Study ·  Making the tool accessible for collaboration · The New York Times"
