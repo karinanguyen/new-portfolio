@@ -57,7 +57,7 @@
 <div class="blog-list">
     {{ range ( .Pages.ByParam "order" ) }}
     <a class="post type-{{ replace .Params.Type " " " type-"}}"
-        href="{{ .Permalink }}">
+        href="{{ if .Params.External }}{{ .Params.External }}{{ else }}{{ .Permalink }}{{ end }}" target="_blank">
         <span class="title">{{ .Title }}</span>
         <span class="hline"></span>
         <span class="publishDate">{{ .Date.Format "Jan '06" }}</span>

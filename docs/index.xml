@@ -8,11 +8,83 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jan 2022 21:59:29 -0500</lastBuildDate><atom:link href="http://karinanguyen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cyberwarcrime and Punishment</title>
-      <link>http://karinanguyen.com/writing/first-post/</link>
+      <title>Cyberwarcrime and punishment</title>
+      <link>http://karinanguyen.com/writing/vr/</link>
       <pubDate>Thu, 28 Jul 2022 22:20:21 -0500</pubDate>
       
-      <guid>http://karinanguyen.com/writing/first-post/</guid>
+      <guid>http://karinanguyen.com/writing/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture as a device for violence</title>
+      <link>http://karinanguyen.com/writing/archfordest/</link>
+      <pubDate>Sun, 28 Nov 2021 22:20:21 -0500</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/archfordest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On ethical design (Op-Ed for Dropbox Design)</title>
+      <link>http://karinanguyen.com/writing/ethicaldesign/</link>
+      <pubDate>Sun, 28 Mar 2021 22:20:21 -0500</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/ethicaldesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR intensifies debates about art </title>
+      <link>http://karinanguyen.com/writing/cyber/</link>
+      <pubDate>Sun, 28 Feb 2021 22:20:21 -0500</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/cyber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>American policies to focus on (Op-Ed for the Daily Californian)</title>
+      <link>http://karinanguyen.com/writing/newyear/</link>
+      <pubDate>Thu, 28 Jan 2021 22:20:21 -0500</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/newyear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From the history of social networks to machine learning harassment</title>
+      <link>http://karinanguyen.com/writing/socialnetworks/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/socialnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principles of effective negotiations for product designers</title>
+      <link>http://karinanguyen.com/writing/negotiations/</link>
+      <pubDate>Wed, 28 Oct 2020 22:20:21 -0500</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/negotiations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The political value of your data</title>
+      <link>http://karinanguyen.com/writing/politicaldata/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/politicaldata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design thinking for physical experiences</title>
+      <link>http://karinanguyen.com/writing/designphys/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/writing/designphys/</guid>
       <description></description>
     </item>
     
