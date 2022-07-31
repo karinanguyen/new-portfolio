@@ -16,15 +16,6 @@
     font-family: "Suisse";
     src: url(../fonts/SuisseIntl-Regular.ttf);
 }
-@font-face {
-        font-family: "Financier";
-        src: url(../fonts/TestFinancierText-Regular.otf); 
-}  
-
-@font-face {
-    font-family: "Financier-2";
-    src: url(../fonts/TestFinancierDisplay-Light.otf); 
-}   
 
 ::selection {
     background: #000000;
@@ -75,9 +66,10 @@ nav a {
     text-decoration: none;
     border-radius: 10px;
     margin-right: 16px;
-    font-size: 24px;
-    font-weight: 600;
-    font-family:"Domaine"; 
+    font-size: 25px;
+    font-weight: 4000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-family:"Domaine";  */
     color: rgb(27, 27, 27);
 }
 
@@ -93,8 +85,9 @@ header {
 }
 
 h1 {
-    font-family:"Domaine"; 
-    font-size: 140px;
+    font-weight: 600;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 90px;
     margin: 0px;
     padding-top: 90px;
     padding-left: 120px; 
@@ -329,23 +322,74 @@ label {
     max-width: 1400px; 
 }
 
-.main-text {
-    font-size: 36px;
-    max-width: 64ch; 
-    font-family: "Financier-2";
-    text-align: left;  
-
+.front-text {
+    font-size: 18px;
+    max-width: 68ch;
+    text-align: left;
+    line-height: 1.5em;
 }
 
+.front-text mark {
+    background: rgb(216 216 216);
+    padding: 1px 3px;
+    border-radius: 3px;
+}
 
-
-.main-header {
-    font-size: 42px;
-    font-weight: 800;
+.front-header {
+    /* font-size: 42px;
+    font-weight: 500;
     max-width: 64ch; 
-    font-family: "Financier-2";
-    text-align: left;  
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;   */
 
+    font-weight: 800;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    margin: 0px;
+    /* padding-top: 0px;
+    padding-left: 0px;  */
+    text-align: left;
+}
+
+.front-subheader {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    margin-top: 28px;
+    position: relative;
+}
+
+.front-subheader::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 140px;
+    display: block;
+    height: 2px;
+    width: calc(68ch - 140px);
+    max-width: calc(100% - 140px);
+    background: linear-gradient(to right, #bbbbbb, transparent);
+}
+
+ul.front-company-list {
+    padding-left: 0;
+    columns: 2;
+    max-width: 52ch;
+}
+
+.front-company-list li {
+    list-style: none;
+    line-height: 1.6em;
+    font-size: 18px;
+}
+
+.front-company-list li a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: #dcd3d3;
+    transition: text-decoration-color .2s;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 1px;
 }
 
 footer.social-footer {
@@ -443,6 +487,17 @@ article ol, article ul {
 .blog-list {
     margin-left: 160px;
 }
+@media only screen and (max-width: 1600px) { 
+
+    #gallery-grid{
+        grid-template-columns: repeat(2, minmax(50px, 1fr)); 
+        margin-left: 30px;
+        max-width: 1000px;
+        margin-left: 120px;
+        gap: 3rem; 
+    } 
+    
+}
 
 @media only screen and (max-width: 1400px) {
     .main-paragraph {
@@ -454,6 +509,13 @@ article ol, article ul {
     .main-paragraph {
         max-width: 800px; 
     } 
+
+    #gallery-grid{
+        grid-template-columns: repeat(1, minmax(50px, 1fr)); 
+        margin-left: 120px;
+        max-width: 600px;
+        gap: 2rem; 
+    }
 } 
 
 @media only screen and (max-width: 1067px) {
@@ -461,6 +523,14 @@ article ol, article ul {
         margin-left: 80px;
         max-width: 600px; 
     } 
+
+
+    #gallery-grid{
+        grid-template-columns: repeat(1, minmax(50px, 1fr)); 
+        margin-left: 120px;
+        max-width: 600px;
+        gap: 2rem; 
+    }
     
 }  
 
@@ -471,6 +541,13 @@ article ol, article ul {
     .main-paragraph {
         margin-left: 100px;
         max-width: 500px; 
+    }
+
+    #gallery-grid{
+        grid-template-columns: repeat(1, minmax(50px, 1fr)); 
+        margin-left: 30px;
+        max-width: 600px;
+        gap: 2rem; 
     }
 
 }
@@ -485,6 +562,14 @@ article ol, article ul {
         margin-right: 5px; 
     } 
 
+
+    #gallery-grid{
+        grid-template-columns: repeat(1, minmax(50px, 1fr)); 
+        margin-left: 90px;
+        max-width: 600px;
+        gap: 2rem; 
+    }
+
 }
 
 
@@ -496,32 +581,17 @@ article ol, article ul {
     .main-text{
         font-size: 30px; 
     } 
+
+    #gallery-grid{
+        grid-template-columns: repeat(1, minmax(50px, 1fr)); 
+        margin-left: 90px;
+        max-width: 600px;
+        gap: 2rem; 
+    }
 }   
 
-@media only screen and (max-width: 414px) {
-    main {
-        width: calc(100% - 20px); 
-    } 
-    .main-paragraph {
-        padding-top: 40px; 
-        margin-left: 35px; 
-        max-width: 320px; 
-    } 
-    .main-text{
-        font-size: 25px; 
-    } 
 
-    nav {
-        padding-left: 8px;
-    }
-
-    nav a{ 
-        font-size: 16px; 
-        margin-right: -12px; 
-    }
-}    
-
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 600px) {
     .main-paragraph {
         max-width: 300px; 
     } 
@@ -571,14 +641,15 @@ article ol, article ul {
         margin-left: 30px;  
         max-width: 200px; 
     } 
-    .main-text{
-        font-size: 20px; 
+    .front-text{
+        font-size: 18px; 
     } 
 } 
 
 @media only screen and (max-width: 395px)  {
     nav {
         padding-left: 8px;
+    
     }
     
     nav a{ 

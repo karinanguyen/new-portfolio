@@ -1,5 +1,6 @@
 ---
-title: "Coming Soon"
-date: 2022-01-12T22:20:21-05:00
+title: "Cyberwarcrime and Punishment"
+date: 2022-07-28T22:20:21-05:00
 type: investigations
 ---
+ 
