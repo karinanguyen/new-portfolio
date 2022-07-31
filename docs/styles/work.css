@@ -42,7 +42,7 @@ body {
 
 main {
     min-height: 80vh; 
-    border-radius: 30px;
+    border-radius: 20px;
     background-color: #F4F4F4; 
     margin: -60px auto;
     width: calc(100% - 60px);
@@ -336,6 +336,8 @@ label {
     text-align: left;  
 
 }
+
+
 
 .main-header {
     font-size: 42px;
