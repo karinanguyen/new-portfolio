@@ -22,10 +22,10 @@
 
 <body>
     <nav class="tabs">
-    <a href="/" style = "transform: rotate(-3.74deg);  background-color: #c0cdd9;">Home</a>
-    <a href="/projects/" style = "transform: rotate(2.31deg); background-color: #dfdfdf;">Work & Projects</a>
+    <a href="/" >Home</a>
+    <a href="/projects/" >Work & Projects</a>
     
-    <a href="/writing/" style = "background-color: #d9c0c0;">Writing </a> 
+    <a href="/writing/" >Writing </a> 
     
 </nav>
 
@@ -47,24 +47,24 @@
         Investigations & Visual Forensics    
     </label>
     <label>
-        <input type='checkbox' id='osint-tools' />
-        Tools for OSINT & Journalism
-    </label> 
-    <label>
         <input type='checkbox' id='computer-vision' />
         ML Research & AI Experiments  
     </label>
     <label>
-        <input type='checkbox' id='generative-art' />
-        Art & Exhibitions
+        <input type='checkbox' id='product-design' />
+        Software & Product Design
     </label>
+    <label>
+        <input type='checkbox' id='osint-tools' />
+        Tools for OSINT & Journalism
+    </label> 
     <label>
         <input type='checkbox' id='cartography' />
         Geospatial, 3D, and Remote Sensing 
     </label>
     <label>
-        <input type='checkbox' id='product-design' />
-        Software & Product Design
+        <input type='checkbox' id='generative-art' />
+        Art & Exhibitions
     </label>
     <label>
         <input type='checkbox' id='hardware'/>  
@@ -89,6 +89,76 @@
 
 <div id="gallery-grid" class="">
     
+    <div class="card type-computer-vision type-data-viz">
+        
+            
+            <a href="https://arxiv.org/abs/2212.09251" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/lmevals.gif" alt="Discovering Language Model Behaviors with Model-Written Evaluations" />
+                </div>
+                <p class="definition">Discovering Language Model Behaviors with Model-Written Evaluations</p>
+            </a>    
+            
+        
+        <p class="more-details">Larger LMs repeat back a dialog user&#39;s preferred answer and express biases and novel risks · 2022</p>
+    </div>
+    
+    <div class="card type-investigations type-cartography type-data-viz">
+        
+            
+            <a href="https://www.bloomberg.com/graphics/2022-ukraine-culture-russia-war-map-building-preservation/" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/bloomberg2.gif" alt="Protecting Centuries-Old Culture From Putin’s Invasion | Bloomberg CityLab" />
+                </div>
+                <p class="definition">Protecting Centuries-Old Culture From Putin’s Invasion | Bloomberg CityLab</p>
+            </a>    
+            
+        
+        <p class="more-details">3D reconstruction, data mapping, and writing on attempts of destroying Ukrainian culture · 2022</p>
+    </div>
+    
+    <div class="card type-product-design type-computer-vision">
+        
+            
+            <a href="https://interalia.vcflab.org/" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/interalia.gif" alt="Inter Alia" />
+                </div>
+                <p class="definition">Inter Alia</p>
+            </a>    
+            
+        
+        <p class="more-details">A new AI-driven experience to creatively shop for clothes by prompting / natural language · 2022</p>
+    </div>
+    
+    <div class="card type-product-design type-computer-vision">
+        
+            
+            <a href="https://twitter.com/karinanguyen_/status/1566884536054677506" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/syn.gif" alt="Synevyr" />
+                </div>
+                <p class="definition">Synevyr</p>
+            </a>    
+            
+        
+        <p class="more-details">A writing environment with GPT-3 integrated directly into the text editor · 2022</p>
+    </div>
+    
+    <div class="card type-product-design type-computer-vision type-osint-tools">
+        
+            
+            <a href="https://twitter.com/karinanguyen_/status/1557114303869763591" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/glean.gif" alt="Glean" />
+                </div>
+                <p class="definition">Glean</p>
+            </a>    
+            
+        
+        <p class="more-details">OSINT tool to extract and visualize key information from a document (in progress) · 2022</p>
+    </div>
+    
     <div class="card type-investigations type-cartography">
         
             
@@ -101,6 +171,20 @@
             
         
         <p class="more-details">First legal framework and a case for cyber warcrimes in history. Article 15(2) of the Rome Statute submission to the International Criminal Court. · 2022</p>
+    </div>
+    
+    <div class="card type-product-design">
+        
+            
+            <a href="https://twitter.com/karinanguyen_/status/1560114450488823810" target="_blank">
+                <div class="card_img_zoom_container">
+                    <img class="card_img_container" src="/imgs/magenta.jpeg" alt="Magenta" />
+                </div>
+                <p class="definition">Magenta</p>
+            </a>    
+            
+        
+        <p class="more-details">A shared library for links, papers, and books · 2022</p>
     </div>
     
     <div class="card type-osint-tools type-product-design type-computer-vision">
@@ -163,9 +247,9 @@
         
             
                 <div class="card_img_zoom_container">
-                    <img class="card_img_container" src="/imgs/snutils.png" alt="Snutils | Bellingcat Tech Team" />
+                    <img class="card_img_container" src="/imgs/snutils.png" alt="Snutils | Bellingcat" />
                 </div>
-                <p class="definition">Snutils | Bellingcat Tech Team</p>
+                <p class="definition">Snutils | Bellingcat</p>
             
         
         <p class="more-details">Investigative tool for social media analyses · 2022</p>
@@ -419,9 +503,9 @@
         
         <a href="http://karinanguyen.com/projects/oak-system/">
             <div class="card_img_zoom_container">
-                <img class="card_img_container" src="/imgs/oak-system.gif" alt="Design Systems for Oak" />
+                <img class="card_img_container" src="/imgs/oak-system.gif" alt="Design Systems for Oak | The NYT" />
             </div>
-            <p class="definition">Design Systems for Oak</p>
+            <p class="definition">Design Systems for Oak | The NYT</p>
         </a>
         
         <p class="more-details">Design Case Study · Building a design systems component library for a text-editor · The New York Times · 2021</p>
@@ -431,9 +515,9 @@
         
         <a href="http://karinanguyen.com/projects/oak/">
             <div class="card_img_zoom_container">
-                <img class="card_img_container" src="/imgs/oak.gif" alt="Stashed Text in Oak" />
+                <img class="card_img_container" src="/imgs/oak.gif" alt="Stashed Text in Oak | The NYT" />
             </div>
-            <p class="definition">Stashed Text in Oak</p>
+            <p class="definition">Stashed Text in Oak | The NYT</p>
         </a>
         
         <p class="more-details">Design Case Study ·  Making the tool accessible for collaboration · The New York Times · 2021</p>

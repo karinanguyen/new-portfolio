@@ -117,6 +117,7 @@ input[type='checkbox'] {
     position: relative;
     cursor: pointer;
     transition: background .2s;
+    border-radius: 5px;
 }
 
 input[type=checkbox]:hover {
@@ -126,14 +127,21 @@ input[type=checkbox]:hover {
 
 input[type=checkbox]:checked::after {
     content: '';
+    display: block; 
     background-image: url(/imgs/check.svg);
+    /* background-color: rgb(148 33 13 / 90%);
     display: block;
-    height: 150%;
+    width: 1.05em;
+    height: 1.05em;
+    border-radius: 5px;  */
+    height: 110%;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    width: 150%;
+    width: 110%;
     position: relative;
-    top: -55%;
+    /* top: -12%;
+    left: -10%; */
+    top: -15%;
     left: 0;
  }
 
@@ -486,7 +494,7 @@ article ol, article ul {
 }
 
 .blog-list {
-    margin-left: 160px;
+    margin-left: 130px;
 }
 
 .publications {

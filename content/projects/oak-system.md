@@ -1,5 +1,5 @@
 ---
-title: "Design Systems for Oak"
+title: "Design Systems for Oak | The NYT"
 type: "product-design osint-tools"
 external: inline
 image: "oak-system.gif"

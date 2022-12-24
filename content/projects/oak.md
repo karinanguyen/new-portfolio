@@ -1,5 +1,5 @@
 ---
-title: "Stashed Text in Oak"
+title: "Stashed Text in Oak | The NYT"
 type: "product-design osint-tools"
 external: inline
 image: "oak.gif"

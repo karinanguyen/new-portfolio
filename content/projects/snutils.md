@@ -1,5 +1,5 @@
 ---
-title: "Snutils | Bellingcat Tech Team"
+title: "Snutils | Bellingcat"
 type: "osint-tools product-design"
 
 image: "snutils.png"

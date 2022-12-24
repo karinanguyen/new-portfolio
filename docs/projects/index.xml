@@ -216,13 +216,22 @@ Context I was working on designing a new paid feature called batch invoicing tha
     </item>
     
     <item>
-      <title>Design Systems for Oak</title>
+      <title>Design Systems for Oak | The NYT</title>
       <link>http://karinanguyen.com/projects/oak-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://karinanguyen.com/projects/oak-system/</guid>
       <description>Oak is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.
 Oak was designed in the browser. As a result, no full set of mockups exists.</description>
+    </item>
+    
+    <item>
+      <title>Discovering Language Model Behaviors with Model-Written Evaluations</title>
+      <link>http://karinanguyen.com/projects/lmevas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/lmevas/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -280,6 +289,15 @@ Oak was designed in the browser. As a result, no full set of mockups exists.</de
     </item>
     
     <item>
+      <title>Glean</title>
+      <link>http://karinanguyen.com/projects/glean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/glean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hack for Social Impact Summit 2019</title>
       <link>http://karinanguyen.com/projects/h4sis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -298,6 +316,15 @@ Oak was designed in the browser. As a result, no full set of mockups exists.</de
     </item>
     
     <item>
+      <title>Inter Alia</title>
+      <link>http://karinanguyen.com/projects/interalia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/interalia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lebanese Security Forces</title>
       <link>http://karinanguyen.com/projects/lebanon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -312,6 +339,15 @@ Oak was designed in the browser. As a result, no full set of mockups exists.</de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://karinanguyen.com/projects/lightfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magenta</title>
+      <link>http://karinanguyen.com/projects/magenta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/magenta/</guid>
       <description></description>
     </item>
     
@@ -388,6 +424,15 @@ Oak was designed in the browser. As a result, no full set of mockups exists.</de
     </item>
     
     <item>
+      <title>Protecting Centuries-Old Culture From Putin’s Invasion | Bloomberg CityLab</title>
+      <link>http://karinanguyen.com/projects/bloomberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/bloomberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rectify</title>
       <link>http://karinanguyen.com/projects/rectifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -424,7 +469,7 @@ Oak was designed in the browser. As a result, no full set of mockups exists.</de
     </item>
     
     <item>
-      <title>Snutils | Bellingcat Tech Team</title>
+      <title>Snutils | Bellingcat</title>
       <link>http://karinanguyen.com/projects/snutils/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -451,7 +496,7 @@ Oak was designed in the browser. As a result, no full set of mockups exists.</de
     </item>
     
     <item>
-      <title>Stashed Text in Oak</title>
+      <title>Stashed Text in Oak | The NYT</title>
       <link>http://karinanguyen.com/projects/oak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -466,6 +511,15 @@ Context Since the conception of the tool, Publishing Tools team has been working
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://karinanguyen.com/projects/sudan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synevyr</title>
+      <link>http://karinanguyen.com/projects/synevyr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karinanguyen.com/projects/synevyr/</guid>
       <description></description>
     </item>
     
