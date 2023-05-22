@@ -27,7 +27,7 @@
         "type": [
             "computer-vision"
         ],
-        "external": "https://www.karinanguyen.co/projects/lightfield/index.html",
+        "external": "https://karinanguyen.github.io/projects/lightfield/index.html",
         "image": "lightfield.png",
         "description": "Computational Photography · OpenCV",
         "year": "2021"
@@ -91,7 +91,7 @@
         "type": [
             "investigations"
         ],
-        "external": "https://www.karinanguyen.co/archofdestr/archofdest.html",
+        "external": "https://karinanguyen.github.io/archofdestr/archofdest.html",
         "image": "archofdest.jpg",
         "description": "Satellite Visualization · Blender",
         "year": "2021"
