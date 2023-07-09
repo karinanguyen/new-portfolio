@@ -1,9 +1,9 @@
 ---
-title: "Semantic Groupings in Mobile UIs"
+title: "Towards Semantically-Aware UI Design Tools: Design, Implementation and Evaluation of Semantic Grouping Guidelines"
 type: "product-design computer-vision"
 
 image: "hci.png"
-description: "Paper in Proceeding for UIST 2022 · Marti Hearst, Peitong Duan, Google Research"
+description: "To appear at ICML HCIxAI Workshop'23 · Marti Hearst, Peitong Duan, Google Research"
 year: "2021-"
 order: 19.0
 ---
