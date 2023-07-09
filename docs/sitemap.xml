@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://karinanguyen.com/writing/vr/</loc>
-    <lastmod>2022-07-28T22:20:21-05:00</lastmod>
+    <loc>http://karinanguyen.com/writing/subwayeng/</loc>
+    <lastmod>2023-06-28T22:20:21-05:00</lastmod>
   </url><url>
     <loc>http://karinanguyen.com/writing/</loc>
+    <lastmod>2023-06-28T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://karinanguyen.com/writing/principledprogress/</loc>
+    <lastmod>2023-05-28T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://karinanguyen.com/writing/joiningsafetylab/</loc>
+    <lastmod>2022-10-28T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://karinanguyen.com/writing/vr/</loc>
     <lastmod>2022-07-28T22:20:21-05:00</lastmod>
   </url><url>
     <loc>http://karinanguyen.com/</loc>
@@ -93,6 +102,8 @@
   </url><url>
     <loc>http://karinanguyen.com/projects/capecod/</loc>
   </url><url>
+    <loc>http://karinanguyen.com/projects/fairness/</loc>
+  </url><url>
     <loc>http://karinanguyen.com/projects/ganstructivism/</loc>
   </url><url>
     <loc>http://karinanguyen.com/projects/atlantic/</loc>
@@ -143,8 +154,6 @@
   </url><url>
     <loc>http://karinanguyen.com/projects/markets/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/hci/</loc>
-  </url><url>
     <loc>http://karinanguyen.com/projects/snutils/</loc>
   </url><url>
     <loc>http://karinanguyen.com/projects/art-map/</loc>
@@ -166,6 +175,10 @@
     <loc>http://karinanguyen.com/projects/arch1/</loc>
   </url><url>
     <loc>http://karinanguyen.com/projects/futurefash/</loc>
+  </url><url>
+    <loc>http://karinanguyen.com/projects/globalvalues/</loc>
+  </url><url>
+    <loc>http://karinanguyen.com/projects/hci/</loc>
   </url><url>
     <loc>http://karinanguyen.com/projects/work-study/</loc>
   </url><url>
