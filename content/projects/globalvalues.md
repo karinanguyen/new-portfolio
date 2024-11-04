@@ -5,5 +5,5 @@ external: "https://llmglobalvalues.anthropic.com"
 image: "llmvalues.gif"
 description: "Model responses are most similar to the opinion distributions of the US, Canada, and some of the European countries."
 year: "2023"
-order: -3.6
+order: -3.54
 ---

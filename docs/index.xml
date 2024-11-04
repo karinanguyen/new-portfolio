@@ -2,818 +2,760 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karina Nguyen</title>
-    <link>http://karinanguyen.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Karina Nguyen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jan 2022 21:59:29 -0500</lastBuildDate><atom:link href="http://karinanguyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 22:20:21 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things I learned at Anthropic</title>
+      <link>http://localhost:1313/writing/lessonsanthro/</link>
+      <pubDate>Fri, 24 May 2024 22:20:21 -0500</pubDate>
+      <guid>http://localhost:1313/writing/lessonsanthro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailoring taste. Reflections on building Inter Alia, a visual text-image fashion recommendation search</title>
+      <link>http://localhost:1313/writing/tailoringtaste/</link>
+      <pubDate>Wed, 24 Apr 2024 22:20:21 -0500</pubDate>
+      <guid>http://localhost:1313/writing/tailoringtaste/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The cost of AI reasoning over time</title>
+      <link>http://localhost:1313/writing/costreasoning/</link>
+      <pubDate>Sun, 24 Mar 2024 22:20:21 -0500</pubDate>
+      <guid>http://localhost:1313/writing/costreasoning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cultures of writing. Strong writing cultures enable innovation.</title>
-      <link>http://karinanguyen.com/writing/cultureswriting/</link>
+      <link>http://localhost:1313/writing/cultureswriting/</link>
       <pubDate>Thu, 28 Sep 2023 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/cultureswriting/</guid>
+      <guid>http://localhost:1313/writing/cultureswriting/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hard truths. Some truths are so hard, voicing them feels like betraying those you love most.</title>
-      <link>http://karinanguyen.com/writing/hardtruths/</link>
+      <link>http://localhost:1313/writing/hardtruths/</link>
       <pubDate>Mon, 28 Aug 2023 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/hardtruths/</guid>
+      <guid>http://localhost:1313/writing/hardtruths/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lost study of subway construction: engineering Soviet metro</title>
-      <link>http://karinanguyen.com/writing/subwayeng/</link>
+      <link>http://localhost:1313/writing/subwayeng/</link>
       <pubDate>Wed, 28 Jun 2023 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/subwayeng/</guid>
+      <guid>http://localhost:1313/writing/subwayeng/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Principled progress. Moral craftsmanship and inhabiting contradiction with AGI</title>
-      <link>http://karinanguyen.com/writing/principledprogress/</link>
+      <link>http://localhost:1313/writing/principledprogress/</link>
       <pubDate>Sun, 28 May 2023 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/principledprogress/</guid>
+      <guid>http://localhost:1313/writing/principledprogress/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>On joining Anthropic, AI safety research lab</title>
-      <link>http://karinanguyen.com/writing/joiningsafetylab/</link>
+      <link>http://localhost:1313/writing/joiningsafetylab/</link>
       <pubDate>Fri, 28 Oct 2022 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/joiningsafetylab/</guid>
+      <guid>http://localhost:1313/writing/joiningsafetylab/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cyberwarcrime and punishment</title>
-      <link>http://karinanguyen.com/writing/vr/</link>
+      <link>http://localhost:1313/writing/vr/</link>
       <pubDate>Thu, 28 Jul 2022 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/vr/</guid>
+      <guid>http://localhost:1313/writing/vr/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Architecture as a device for violence</title>
-      <link>http://karinanguyen.com/writing/archfordest/</link>
+      <link>http://localhost:1313/writing/archfordest/</link>
       <pubDate>Sun, 28 Nov 2021 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/archfordest/</guid>
+      <guid>http://localhost:1313/writing/archfordest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>On ethical design (Op-Ed for Dropbox Design)</title>
-      <link>http://karinanguyen.com/writing/ethicaldesign/</link>
+      <link>http://localhost:1313/writing/ethicaldesign/</link>
       <pubDate>Sun, 28 Mar 2021 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/ethicaldesign/</guid>
+      <guid>http://localhost:1313/writing/ethicaldesign/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VR intensifies debates about art </title>
-      <link>http://karinanguyen.com/writing/cyber/</link>
+      <link>http://localhost:1313/writing/cyber/</link>
       <pubDate>Sun, 28 Feb 2021 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/cyber/</guid>
+      <guid>http://localhost:1313/writing/cyber/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>American policies to focus on (Op-Ed for the Daily Californian)</title>
-      <link>http://karinanguyen.com/writing/newyear/</link>
+      <link>http://localhost:1313/writing/newyear/</link>
       <pubDate>Thu, 28 Jan 2021 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/newyear/</guid>
+      <guid>http://localhost:1313/writing/newyear/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>From the history of social networks to machine learning harassment</title>
-      <link>http://karinanguyen.com/writing/socialnetworks/</link>
+      <link>http://localhost:1313/writing/socialnetworks/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/socialnetworks/</guid>
+      <guid>http://localhost:1313/writing/socialnetworks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Principles of effective negotiations for product designers</title>
-      <link>http://karinanguyen.com/writing/negotiations/</link>
+      <link>http://localhost:1313/writing/negotiations/</link>
       <pubDate>Wed, 28 Oct 2020 22:20:21 -0500</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/negotiations/</guid>
+      <guid>http://localhost:1313/writing/negotiations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The political value of your data</title>
-      <link>http://karinanguyen.com/writing/politicaldata/</link>
+      <link>http://localhost:1313/writing/politicaldata/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/politicaldata/</guid>
+      <guid>http://localhost:1313/writing/politicaldata/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Design thinking for physical experiences</title>
-      <link>http://karinanguyen.com/writing/designphys/</link>
+      <link>http://localhost:1313/writing/designphys/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/writing/designphys/</guid>
+      <guid>http://localhost:1313/writing/designphys/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>100K Token Long Context</title>
+      <link>http://localhost:1313/projects/100k_longcontext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/100k_longcontext/</guid>
+      <description></description>
+    </item>
     <item>
       <title>11th National Conference</title>
-      <link>http://karinanguyen.com/projects/eyp/</link>
+      <link>http://localhost:1313/projects/eyp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/eyp/</guid>
+      <guid>http://localhost:1313/projects/eyp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1951 Coffee</title>
-      <link>http://karinanguyen.com/projects/1951/</link>
+      <link>http://localhost:1313/projects/1951/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/1951/</guid>
+      <guid>http://localhost:1313/projects/1951/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Dossier to Prove Russian War Crimes | CNN</title>
-      <link>http://karinanguyen.com/projects/protocol/</link>
+      <link>http://localhost:1313/projects/protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/protocol/</guid>
+      <guid>http://localhost:1313/projects/protocol/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Sense in Symmetry.</title>
-      <link>http://karinanguyen.com/projects/sensesymm/</link>
+      <link>http://localhost:1313/projects/sensesymm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/sensesymm/</guid>
+      <guid>http://localhost:1313/projects/sensesymm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Sense of Touch</title>
-      <link>http://karinanguyen.com/projects/sensetouch/</link>
+      <link>http://localhost:1313/projects/sensetouch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/sensetouch/</guid>
+      <guid>http://localhost:1313/projects/sensetouch/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AB392</title>
-      <link>http://karinanguyen.com/projects/force-policy/</link>
+      <link>http://localhost:1313/projects/force-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/force-policy/</guid>
+      <guid>http://localhost:1313/projects/force-policy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>After the Strike in Beit Hanoun, Gaza</title>
-      <link>http://karinanguyen.com/projects/gaza/</link>
+      <link>http://localhost:1313/projects/gaza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/gaza/</guid>
+      <guid>http://localhost:1313/projects/gaza/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AP Investigation | Bodies as Tools of Terror</title>
-      <link>http://karinanguyen.com/projects/myanmar/</link>
+      <link>http://localhost:1313/projects/myanmar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/myanmar/</guid>
+      <guid>http://localhost:1313/projects/myanmar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Application Catalog</title>
-      <link>http://karinanguyen.com/projects/ac/</link>
+      <link>http://localhost:1313/projects/ac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/ac/</guid>
-      <description>To perfectly symphonize quality journalism with multimillion readership it is crucial to have up to date information of all complex systems in one place.
-Imagine there are some technical issues during the Election night. Engineers on-call would need an immediate way to know why and what caused the issue to fix it, so that it wouldn’t impact your experience with the graphics. They would need to quickly retrieve all essential information to solve the problem: from understanding what dependent application might have caused the bug to knowing what team to communicate to.</description>
+      <guid>http://localhost:1313/projects/ac/</guid>
+      <description>&lt;p&gt;To perfectly symphonize quality journalism with multimillion readership it is crucial to have up to date information of all complex systems in one place.&lt;/p&gt;&#xA;&lt;p&gt;Imagine there are some technical issues during the Election night. Engineers on-call would need an immediate way to know why and what caused the issue to fix it, so that it wouldn’t impact your experience with the graphics. They would need to quickly retrieve all essential information to solve the problem: from understanding what dependent application might have caused the bug to knowing what team to communicate to.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Architectural Counterforensics</title>
-      <link>http://karinanguyen.com/projects/archofdest/</link>
+      <link>http://localhost:1313/projects/archofdest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/archofdest/</guid>
+      <guid>http://localhost:1313/projects/archofdest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Atlas of Attacks</title>
-      <link>http://karinanguyen.com/projects/atlas-attacks/</link>
+      <link>http://localhost:1313/projects/atlas-attacks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/atlas-attacks/</guid>
+      <guid>http://localhost:1313/projects/atlas-attacks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Barrier of Trust. Openness.</title>
-      <link>http://karinanguyen.com/projects/barriers/</link>
+      <link>http://localhost:1313/projects/barriers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/barriers/</guid>
+      <guid>http://localhost:1313/projects/barriers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Batch Invoices</title>
-      <link>http://karinanguyen.com/projects/batch/</link>
+      <link>http://localhost:1313/projects/batch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/batch/</guid>
-      <description>Invoices is working on smarter invoicing software and tooling that helps sellers to manage cash flow, streamline business workflows, and efficiently run business operations (i.e. sending recurring invoices, scheduling automatic payments, accepting payments, and tracking in real-time).
-Context I was working on designing a new paid feature called batch invoicing that enables users to create and send invoices or estimates to a group of customers where the content is otherwise the same (e.</description>
+      <guid>http://localhost:1313/projects/batch/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://squareup.com/us/en/invoices&#34;&gt;Invoices&lt;/a&gt; is working on smarter invoicing software and tooling that helps sellers to manage cash flow, streamline business workflows, and efficiently run business operations (i.e. sending recurring invoices, scheduling automatic payments, accepting payments, and tracking in real-time).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/invoices.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;I was working on designing a new paid feature called batch invoicing that enables users to create and send invoices or estimates to a group of customers where the content is otherwise the same (e.g., monthly wine club invoices). This is different from the existing “additional recipients&amp;quot; feature where it’s one invoice sent to several people. Batch invoicing will create invoices for each of the customers. Sellers need a batch creation feature to improve their workflow efficiency.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Boz, a Personal Computer</title>
-      <link>http://karinanguyen.com/projects/boz/</link>
+      <link>http://localhost:1313/projects/boz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/boz/</guid>
+      <guid>http://localhost:1313/projects/boz/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Burned Village &amp; Forests in Myanmar&#39;s Coup</title>
-      <link>http://karinanguyen.com/projects/fires-myanmar/</link>
+      <link>http://localhost:1313/projects/fires-myanmar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/fires-myanmar/</guid>
+      <guid>http://localhost:1313/projects/fires-myanmar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Capitol Riot</title>
-      <link>http://karinanguyen.com/projects/riot/</link>
+      <link>http://localhost:1313/projects/riot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/riot/</guid>
+      <guid>http://localhost:1313/projects/riot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cartopia</title>
-      <link>http://karinanguyen.com/projects/gan-maps/</link>
+      <link>http://localhost:1313/projects/gan-maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/gan-maps/</guid>
+      <guid>http://localhost:1313/projects/gan-maps/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Chain-of-thought streaming</title>
+      <link>http://localhost:1313/projects/o1_cot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/o1_cot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT canvas</title>
+      <link>http://localhost:1313/projects/canvas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/canvas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT code diffs &amp; writing edits</title>
+      <link>http://localhost:1313/projects/code_diff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/code_diff/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Chefs Budgeting Tool</title>
-      <link>http://karinanguyen.com/projects/chefs/</link>
+      <link>http://localhost:1313/projects/chefs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/chefs/</guid>
+      <guid>http://localhost:1313/projects/chefs/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Claude 2 Training &amp; Model Card</title>
+      <link>http://localhost:1313/projects/claude2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claude2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude 3 Haiku - fastest model yet</title>
+      <link>http://localhost:1313/projects/claude3haiku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claude3haiku/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude 3 Opus Recursive Self-portrait</title>
+      <link>http://localhost:1313/projects/claude3_opus_art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claude3_opus_art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude Developer API</title>
+      <link>http://localhost:1313/projects/claude_console_api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claude_console_api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude in Slack</title>
+      <link>http://localhost:1313/projects/claude_in_slack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claude_in_slack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude Instant 1.2</title>
+      <link>http://localhost:1313/projects/claudeinstant1p2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claudeinstant1p2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>claude.ai</title>
+      <link>http://localhost:1313/projects/claudeai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claudeai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Coding it Forward</title>
-      <link>http://karinanguyen.com/projects/cif/</link>
+      <link>http://localhost:1313/projects/cif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/cif/</guid>
+      <guid>http://localhost:1313/projects/cif/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Community Grows</title>
-      <link>http://karinanguyen.com/projects/cg/</link>
+      <link>http://localhost:1313/projects/cg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/cg/</guid>
+      <guid>http://localhost:1313/projects/cg/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Construite</title>
-      <link>http://karinanguyen.com/projects/construite/</link>
+      <link>http://localhost:1313/projects/construite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/construite/</guid>
+      <guid>http://localhost:1313/projects/construite/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crating Vocabulary for Berkeley Crossword</title>
-      <link>http://karinanguyen.com/projects/crossword/</link>
+      <link>http://localhost:1313/projects/crossword/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/crossword/</guid>
+      <guid>http://localhost:1313/projects/crossword/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Creatives Collective</title>
-      <link>http://karinanguyen.com/projects/lovers/</link>
+      <link>http://localhost:1313/projects/lovers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/lovers/</guid>
+      <guid>http://localhost:1313/projects/lovers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Design Systems for Oak | The NYT</title>
-      <link>http://karinanguyen.com/projects/oak-system/</link>
+      <link>http://localhost:1313/projects/oak-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/oak-system/</guid>
-      <description>Oak is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.
-Oak was designed in the browser. As a result, no full set of mockups exists.</description>
+      <guid>http://localhost:1313/projects/oak-system/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21&#34;&gt;Oak&lt;/a&gt; is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/oak.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Oak was designed in the browser. As a result, no full set of mockups exists. This makes it really hard to iterate on it because pretty much every mockup needed to be made from scratch for designers and engineers. I worked on creating a design system of flexible components for a text-editor Oak. I leveraged some of the newest Figma features, including variants, interactive components, and an old good friend autolayout to do that. A beautiful thing that I learned through this process is the ability to abstract components to the degree, where they would preserve enough flexibility and yet still extend to specific contextual details. And I found it to be the most challenging material to work with.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discovering Language Model Behaviors with Model-Written Evaluations</title>
-      <link>http://karinanguyen.com/projects/lmevas/</link>
+      <link>http://localhost:1313/projects/lmevas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/lmevas/</guid>
+      <guid>http://localhost:1313/projects/lmevas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Emotion Recognition Through Voice Acoustics and Semantics with RNNs</title>
-      <link>http://karinanguyen.com/projects/affect/</link>
+      <link>http://localhost:1313/projects/affect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/affect/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/affect/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/affect.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ethics, Empathy, and Engineering with Notion</title>
-      <link>http://karinanguyen.com/projects/notion/</link>
+      <link>http://localhost:1313/projects/notion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/notion/</guid>
+      <guid>http://localhost:1313/projects/notion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Exploring Environment</title>
-      <link>http://karinanguyen.com/projects/capecod/</link>
+      <link>http://localhost:1313/projects/capecod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/capecod/</guid>
+      <guid>http://localhost:1313/projects/capecod/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FAIR-Ensemble: When Fairness Naturally Emerges From Deep Ensembling</title>
-      <link>http://karinanguyen.com/projects/fairness/</link>
+      <link>http://localhost:1313/projects/fairness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/fairness/</guid>
+      <guid>http://localhost:1313/projects/fairness/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ganstructivism</title>
-      <link>http://karinanguyen.com/projects/ganstructivism/</link>
+      <link>http://localhost:1313/projects/ganstructivism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/ganstructivism/</guid>
+      <guid>http://localhost:1313/projects/ganstructivism/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geographic Tour to Russia&#39;s Attacks in Kharkiv | The Atlantic Council</title>
-      <link>http://karinanguyen.com/projects/atlantic/</link>
+      <link>http://localhost:1313/projects/atlantic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/atlantic/</guid>
+      <guid>http://localhost:1313/projects/atlantic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geography of Displacement</title>
-      <link>http://karinanguyen.com/projects/displacement-1/</link>
+      <link>http://localhost:1313/projects/displacement-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/displacement-1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/displacement-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/displacement.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/imgs/displacement-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Glean</title>
-      <link>http://karinanguyen.com/projects/glean/</link>
+      <link>http://localhost:1313/projects/glean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/glean/</guid>
+      <guid>http://localhost:1313/projects/glean/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hack for Social Impact Summit 2019</title>
-      <link>http://karinanguyen.com/projects/h4sis/</link>
+      <link>http://localhost:1313/projects/h4sis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/h4sis/</guid>
+      <guid>http://localhost:1313/projects/h4sis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hallo</title>
-      <link>http://karinanguyen.com/projects/hallo/</link>
+      <link>http://localhost:1313/projects/hallo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/hallo/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/hallo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/hallo_1.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/imgs/hallo_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Inter Alia</title>
-      <link>http://karinanguyen.com/projects/interalia/</link>
+      <link>http://localhost:1313/projects/interalia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/interalia/</guid>
+      <guid>http://localhost:1313/projects/interalia/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lebanese Security Forces</title>
-      <link>http://karinanguyen.com/projects/lebanon/</link>
+      <link>http://localhost:1313/projects/lebanon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/lebanon/</guid>
+      <guid>http://localhost:1313/projects/lebanon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lghtfield Camera Simulation</title>
-      <link>http://karinanguyen.com/projects/lightfield/</link>
+      <link>http://localhost:1313/projects/lightfield/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/lightfield/</guid>
+      <guid>http://localhost:1313/projects/lightfield/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Magenta</title>
-      <link>http://karinanguyen.com/projects/magenta/</link>
+      <link>http://localhost:1313/projects/magenta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/magenta/</guid>
+      <guid>http://localhost:1313/projects/magenta/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mapping Israeli Police Violations</title>
-      <link>http://karinanguyen.com/projects/israel/</link>
+      <link>http://localhost:1313/projects/israel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/israel/</guid>
+      <guid>http://localhost:1313/projects/israel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mesh</title>
-      <link>http://karinanguyen.com/projects/mesh/</link>
+      <link>http://localhost:1313/projects/mesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/mesh/</guid>
+      <guid>http://localhost:1313/projects/mesh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Minimum Wage Raised</title>
-      <link>http://karinanguyen.com/projects/wage/</link>
+      <link>http://localhost:1313/projects/wage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/wage/</guid>
+      <guid>http://localhost:1313/projects/wage/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MLK</title>
-      <link>http://karinanguyen.com/projects/mlk/</link>
+      <link>http://localhost:1313/projects/mlk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/mlk/</guid>
+      <guid>http://localhost:1313/projects/mlk/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>New Yorker Caption Contests</title>
-      <link>http://karinanguyen.com/projects/literati/</link>
+      <link>http://localhost:1313/projects/literati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/literati/</guid>
+      <guid>http://localhost:1313/projects/literati/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Notifications Management</title>
-      <link>http://karinanguyen.com/projects/dbx/</link>
+      <link>http://localhost:1313/projects/dbx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/dbx/</guid>
+      <guid>http://localhost:1313/projects/dbx/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NYT Widgets</title>
-      <link>http://karinanguyen.com/projects/widgets/</link>
+      <link>http://localhost:1313/projects/widgets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/widgets/</guid>
+      <guid>http://localhost:1313/projects/widgets/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Photography</title>
-      <link>http://karinanguyen.com/photography/</link>
+      <link>http://localhost:1313/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/photography/</guid>
-      <description>Coming Soon&amp;hellip;</description>
+      <guid>http://localhost:1313/photography/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Coming Soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Prokudin-Gorskii&#39;s Colorization Gallery</title>
-      <link>http://karinanguyen.com/projects/colorized/</link>
+      <link>http://localhost:1313/projects/colorized/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/colorized/</guid>
+      <guid>http://localhost:1313/projects/colorized/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Protecting Centuries-Old Culture From Putin’s Invasion | Bloomberg CityLab</title>
-      <link>http://karinanguyen.com/projects/bloomberg/</link>
+      <link>http://localhost:1313/projects/bloomberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/bloomberg/</guid>
+      <guid>http://localhost:1313/projects/bloomberg/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Question Decomposition Improves the Faithfulness of Model-Generated Reasoning</title>
+      <link>http://localhost:1313/projects/decomposition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/decomposition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reasoning Perforamnce vs Cost from 2022-2024</title>
+      <link>http://localhost:1313/projects/aireasoning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/aireasoning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Rectify</title>
-      <link>http://karinanguyen.com/projects/rectifier/</link>
+      <link>http://localhost:1313/projects/rectifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/rectifier/</guid>
+      <guid>http://localhost:1313/projects/rectifier/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Relvars</title>
-      <link>http://karinanguyen.com/projects/relvars/</link>
+      <link>http://localhost:1313/projects/relvars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/relvars/</guid>
+      <guid>http://localhost:1313/projects/relvars/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Research</title>
-      <link>http://karinanguyen.com/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/research/</guid>
-      <description>Coming Soon&amp;hellip;</description>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Coming Soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Safeway Brand&#39;s History</title>
-      <link>http://karinanguyen.com/projects/markets/</link>
+      <link>http://localhost:1313/projects/markets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/markets/</guid>
+      <guid>http://localhost:1313/projects/markets/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>SimpleQA: Factuality Benchmark &amp; Calibration</title>
+      <link>http://localhost:1313/projects/simpleqa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/simpleqa/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Snutils | Bellingcat</title>
-      <link>http://karinanguyen.com/projects/snutils/</link>
+      <link>http://localhost:1313/projects/snutils/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/snutils/</guid>
+      <guid>http://localhost:1313/projects/snutils/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sociology and Economics of Arts</title>
-      <link>http://karinanguyen.com/projects/art-map/</link>
+      <link>http://localhost:1313/projects/art-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/art-map/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/art-map/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/art-map.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Spatial Rhythm</title>
-      <link>http://karinanguyen.com/projects/arch2/</link>
+      <link>http://localhost:1313/projects/arch2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/arch2/</guid>
+      <guid>http://localhost:1313/projects/arch2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stashed Text in Oak | The NYT</title>
-      <link>http://karinanguyen.com/projects/oak/</link>
+      <link>http://localhost:1313/projects/oak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/oak/</guid>
-      <description>Oak is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.
-Context Since the conception of the tool, Publishing Tools team has been working on many cool custom features.</description>
+      <guid>http://localhost:1313/projects/oak/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21&#34;&gt;Oak&lt;/a&gt; is the main text-editor and one of the most essential tools used by the world’s largest and most influential newsroom. Every journalist and editor have crossed their path with this tool. Whether they are writing investigative pieces, editing interactive graphics, or collaborating with each other — Oak has become the medium of ideas and critical truths, connecting journalism and millions of readers worldwide.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/oak-system.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;Since the conception of the tool, Publishing Tools team has been working on many cool custom features. I worked on a feature called stashing that lets a reporter or editor hide text during collaboration. It’s a way for newsroom to leave a note in the body without it getting published.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sudan</title>
-      <link>http://karinanguyen.com/projects/sudan/</link>
+      <link>http://localhost:1313/projects/sudan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/sudan/</guid>
+      <guid>http://localhost:1313/projects/sudan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Synevyr</title>
-      <link>http://karinanguyen.com/projects/synevyr/</link>
+      <link>http://localhost:1313/projects/synevyr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/synevyr/</guid>
+      <guid>http://localhost:1313/projects/synevyr/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tear Gas Investigation</title>
-      <link>http://karinanguyen.com/projects/tear-gas/</link>
+      <link>http://localhost:1313/projects/tear-gas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/tear-gas/</guid>
+      <guid>http://localhost:1313/projects/tear-gas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Case for War Crimes Charges Against Russia’s Sandworm Hackers | WIRED</title>
-      <link>http://karinanguyen.com/projects/cyber/</link>
+      <link>http://localhost:1313/projects/cyber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/cyber/</guid>
+      <guid>http://localhost:1313/projects/cyber/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The City Beautiful</title>
-      <link>http://karinanguyen.com/projects/arch1/</link>
+      <link>http://localhost:1313/projects/arch1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/arch1/</guid>
+      <guid>http://localhost:1313/projects/arch1/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>The Claude 3 Model Family: Opus, Sonnet, Haiku</title>
+      <link>http://localhost:1313/projects/claude3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claude3/</guid>
+      <description></description>
+    </item>
     <item>
       <title>The Future of Fashion.</title>
-      <link>http://karinanguyen.com/projects/futurefash/</link>
+      <link>http://localhost:1313/projects/futurefash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/futurefash/</guid>
+      <guid>http://localhost:1313/projects/futurefash/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Towards Measuring the Representation of Subjective Global Opinions in Language Models</title>
-      <link>http://karinanguyen.com/projects/globalvalues/</link>
+      <link>http://localhost:1313/projects/globalvalues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/globalvalues/</guid>
+      <guid>http://localhost:1313/projects/globalvalues/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Towards Semantically-Aware UI Design Tools: Design, Implementation and Evaluation of Semantic Grouping Guidelines</title>
-      <link>http://karinanguyen.com/projects/hci/</link>
+      <link>http://localhost:1313/projects/hci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/hci/</guid>
+      <guid>http://localhost:1313/projects/hci/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UC Labor Visual Explainer</title>
-      <link>http://karinanguyen.com/projects/work-study/</link>
+      <link>http://localhost:1313/projects/work-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/work-study/</guid>
+      <guid>http://localhost:1313/projects/work-study/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unjustified arrests in Portland | Washington Post</title>
-      <link>http://karinanguyen.com/projects/washpost/</link>
+      <link>http://localhost:1313/projects/washpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/washpost/</guid>
+      <guid>http://localhost:1313/projects/washpost/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Urban Impact of Drones</title>
-      <link>http://karinanguyen.com/projects/drone-strike-yemen/</link>
+      <link>http://localhost:1313/projects/drone-strike-yemen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/drone-strike-yemen/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/drone-strike-yemen/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/yemen-strike.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/imgs/libya-strike.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Uyghurs&#39; Silence</title>
-      <link>http://karinanguyen.com/projects/uyghurs/</link>
+      <link>http://localhost:1313/projects/uyghurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/uyghurs/</guid>
+      <guid>http://localhost:1313/projects/uyghurs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Virtual Terminal</title>
-      <link>http://karinanguyen.com/projects/webpos/</link>
+      <link>http://localhost:1313/projects/webpos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/webpos/</guid>
-      <description>Web Point of Sale is is the version of physical Point of Sale for Square sellers to access via their computer. It is a new updated version of Square Virtual Terminal. I was working on a customer&amp;rsquo;s checkout flow.
-Context One of the larger changes to the flow involved breaking apart cart building and payment into two sections. Along with this, customers would have to be added via a modal, with new functionalities that include searching existing customers and creating new profiles.</description>
+      <guid>http://localhost:1313/projects/webpos/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21&#34;&gt;Web Point of Sale&lt;/a&gt; is is the version of physical Point of Sale for Square sellers to access via their computer. It is a new updated version of Square Virtual Terminal. I was working on a customer&amp;rsquo;s checkout flow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/imgs/webpos.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;One of the larger changes to the flow involved breaking apart cart building and payment into two sections. Along with this, customers would have to be added via a modal, with new functionalities that include searching existing customers and creating new profiles. In this project I shipped add customer flow and contributed components to a new design system.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>War crimes on Syrian hospitals</title>
-      <link>http://karinanguyen.com/projects/syria/</link>
+      <link>http://localhost:1313/projects/syria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/syria/</guid>
+      <guid>http://localhost:1313/projects/syria/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>We Care Solar</title>
-      <link>http://karinanguyen.com/projects/wcs/</link>
+      <link>http://localhost:1313/projects/wcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/wcs/</guid>
+      <guid>http://localhost:1313/projects/wcs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>West Dennis Beach.</title>
-      <link>http://karinanguyen.com/projects/print/</link>
+      <link>http://localhost:1313/projects/print/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/print/</guid>
+      <guid>http://localhost:1313/projects/print/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>What if?</title>
-      <link>http://karinanguyen.com/projects/arch3/</link>
+      <link>http://localhost:1313/projects/arch3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/arch3/</guid>
+      <guid>http://localhost:1313/projects/arch3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WiTI</title>
-      <link>http://karinanguyen.com/projects/witi/</link>
+      <link>http://localhost:1313/projects/witi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karinanguyen.com/projects/witi/</guid>
-      <description>WiTI envisions a world in which under-included communities are proportionately represented and equitably compensated throughout the professional ranks in the tech industry and academia.
-Together we the Program Director and CITRIS Executive Director, we have developed branding for the Women in Tech Initiative.
-The notion of diversity was at the core of the mission statement of the center. Diversity in the technical workforce at all levels enhances collective intelligence and innovation.</description>
+      <guid>http://localhost:1313/projects/witi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://citris-uc.org/research/edge-in-tech-initiative/&#34;&gt;WiTI&lt;/a&gt; envisions a world in which under-included communities are proportionately represented and equitably compensated throughout the professional ranks in the tech industry and academia.&lt;/p&gt;&#xA;&lt;p&gt;Together we the Program Director and CITRIS Executive Director, we have developed branding for the Women in Tech Initiative.&lt;/p&gt;&#xA;&lt;p&gt;The notion of diversity was at the core of the mission statement of the center. Diversity in the technical workforce at all levels enhances collective intelligence and innovation. An information-based society thrives with a vibrant intellectual ecosystem. Industry benefits financially, and technologists enjoy career longevity sustained by personal and professional satisfaction.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

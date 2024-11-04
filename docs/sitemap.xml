@@ -2,208 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://karinanguyen.com/writing/cultureswriting/</loc>
+    <loc>http://localhost:1313/writing/lessonsanthro/</loc>
+    <lastmod>2024-05-24T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/</loc>
+    <lastmod>2024-05-24T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/tailoringtaste/</loc>
+    <lastmod>2024-04-24T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/costreasoning/</loc>
+    <lastmod>2024-03-24T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/cultureswriting/</loc>
     <lastmod>2023-09-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/</loc>
-    <lastmod>2023-09-28T22:20:21-05:00</lastmod>
-  </url><url>
-    <loc>http://karinanguyen.com/writing/hardtruths/</loc>
+    <loc>http://localhost:1313/writing/hardtruths/</loc>
     <lastmod>2023-08-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/subwayeng/</loc>
+    <loc>http://localhost:1313/writing/subwayeng/</loc>
     <lastmod>2023-06-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/principledprogress/</loc>
+    <loc>http://localhost:1313/writing/principledprogress/</loc>
     <lastmod>2023-05-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/joiningsafetylab/</loc>
+    <loc>http://localhost:1313/writing/joiningsafetylab/</loc>
     <lastmod>2022-10-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/vr/</loc>
+    <loc>http://localhost:1313/writing/vr/</loc>
     <lastmod>2022-07-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-01-12T21:59:29-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/archfordest/</loc>
+    <loc>http://localhost:1313/writing/archfordest/</loc>
     <lastmod>2021-11-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/ethicaldesign/</loc>
+    <loc>http://localhost:1313/writing/ethicaldesign/</loc>
     <lastmod>2021-03-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/cyber/</loc>
+    <loc>http://localhost:1313/writing/cyber/</loc>
     <lastmod>2021-02-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/newyear/</loc>
+    <loc>http://localhost:1313/writing/newyear/</loc>
     <lastmod>2021-01-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/socialnetworks/</loc>
+    <loc>http://localhost:1313/writing/socialnetworks/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/negotiations/</loc>
+    <loc>http://localhost:1313/writing/negotiations/</loc>
     <lastmod>2020-10-28T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/politicaldata/</loc>
+    <loc>http://localhost:1313/writing/politicaldata/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/writing/designphys/</loc>
+    <loc>http://localhost:1313/writing/designphys/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karinanguyen.com/projects/eyp/</loc>
+    <loc>http://localhost:1313/projects/100k_longcontext/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/1951/</loc>
+    <loc>http://localhost:1313/projects/eyp/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/protocol/</loc>
+    <loc>http://localhost:1313/projects/1951/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/sensesymm/</loc>
+    <loc>http://localhost:1313/projects/protocol/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/sensetouch/</loc>
+    <loc>http://localhost:1313/projects/sensesymm/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/force-policy/</loc>
+    <loc>http://localhost:1313/projects/sensetouch/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/gaza/</loc>
+    <loc>http://localhost:1313/projects/force-policy/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/myanmar/</loc>
+    <loc>http://localhost:1313/projects/gaza/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/ac/</loc>
+    <loc>http://localhost:1313/projects/myanmar/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/archofdest/</loc>
+    <loc>http://localhost:1313/projects/ac/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/atlas-attacks/</loc>
+    <loc>http://localhost:1313/projects/archofdest/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/barriers/</loc>
+    <loc>http://localhost:1313/projects/atlas-attacks/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/batch/</loc>
+    <loc>http://localhost:1313/projects/barriers/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/boz/</loc>
+    <loc>http://localhost:1313/projects/batch/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/fires-myanmar/</loc>
+    <loc>http://localhost:1313/projects/boz/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/riot/</loc>
+    <loc>http://localhost:1313/projects/fires-myanmar/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/gan-maps/</loc>
+    <loc>http://localhost:1313/projects/riot/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/categories/</loc>
+    <loc>http://localhost:1313/projects/gan-maps/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/chefs/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/cif/</loc>
+    <loc>http://localhost:1313/projects/o1_cot/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/cg/</loc>
+    <loc>http://localhost:1313/projects/canvas/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/construite/</loc>
+    <loc>http://localhost:1313/projects/code_diff/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/crossword/</loc>
+    <loc>http://localhost:1313/projects/chefs/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/lovers/</loc>
+    <loc>http://localhost:1313/projects/claude2/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/oak-system/</loc>
+    <loc>http://localhost:1313/projects/claude3haiku/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/lmevas/</loc>
+    <loc>http://localhost:1313/projects/claude3_opus_art/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/affect/</loc>
+    <loc>http://localhost:1313/projects/claude_console_api/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/notion/</loc>
+    <loc>http://localhost:1313/projects/claude_in_slack/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/capecod/</loc>
+    <loc>http://localhost:1313/projects/claudeinstant1p2/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/fairness/</loc>
+    <loc>http://localhost:1313/projects/claudeai/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/ganstructivism/</loc>
+    <loc>http://localhost:1313/projects/cif/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/atlantic/</loc>
+    <loc>http://localhost:1313/projects/cg/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/displacement-1/</loc>
+    <loc>http://localhost:1313/projects/construite/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/glean/</loc>
+    <loc>http://localhost:1313/projects/crossword/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/h4sis/</loc>
+    <loc>http://localhost:1313/projects/lovers/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/hallo/</loc>
+    <loc>http://localhost:1313/projects/oak-system/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/interalia/</loc>
+    <loc>http://localhost:1313/projects/lmevas/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/lebanon/</loc>
+    <loc>http://localhost:1313/projects/affect/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/lightfield/</loc>
+    <loc>http://localhost:1313/projects/notion/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/magenta/</loc>
+    <loc>http://localhost:1313/projects/capecod/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/israel/</loc>
+    <loc>http://localhost:1313/projects/fairness/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/mesh/</loc>
+    <loc>http://localhost:1313/projects/ganstructivism/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/wage/</loc>
+    <loc>http://localhost:1313/projects/atlantic/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/mlk/</loc>
+    <loc>http://localhost:1313/projects/displacement-1/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/literati/</loc>
+    <loc>http://localhost:1313/projects/glean/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/dbx/</loc>
+    <loc>http://localhost:1313/projects/h4sis/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/widgets/</loc>
+    <loc>http://localhost:1313/projects/hallo/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/photography/</loc>
+    <loc>http://localhost:1313/projects/interalia/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/</loc>
+    <loc>http://localhost:1313/projects/lebanon/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/colorized/</loc>
+    <loc>http://localhost:1313/projects/lightfield/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/bloomberg/</loc>
+    <loc>http://localhost:1313/projects/magenta/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/rectifier/</loc>
+    <loc>http://localhost:1313/projects/israel/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/relvars/</loc>
+    <loc>http://localhost:1313/projects/mesh/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/research/</loc>
+    <loc>http://localhost:1313/projects/wage/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/markets/</loc>
+    <loc>http://localhost:1313/projects/mlk/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/snutils/</loc>
+    <loc>http://localhost:1313/projects/literati/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/art-map/</loc>
+    <loc>http://localhost:1313/projects/dbx/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/arch2/</loc>
+    <loc>http://localhost:1313/projects/widgets/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/oak/</loc>
+    <loc>http://localhost:1313/photography/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/sudan/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/synevyr/</loc>
+    <loc>http://localhost:1313/projects/colorized/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/tags/</loc>
+    <loc>http://localhost:1313/projects/bloomberg/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/tear-gas/</loc>
+    <loc>http://localhost:1313/projects/decomposition/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/cyber/</loc>
+    <loc>http://localhost:1313/projects/aireasoning/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/arch1/</loc>
+    <loc>http://localhost:1313/projects/rectifier/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/futurefash/</loc>
+    <loc>http://localhost:1313/projects/relvars/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/globalvalues/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/hci/</loc>
+    <loc>http://localhost:1313/projects/markets/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/work-study/</loc>
+    <loc>http://localhost:1313/projects/simpleqa/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/washpost/</loc>
+    <loc>http://localhost:1313/projects/snutils/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/drone-strike-yemen/</loc>
+    <loc>http://localhost:1313/projects/art-map/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/uyghurs/</loc>
+    <loc>http://localhost:1313/projects/arch2/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/webpos/</loc>
+    <loc>http://localhost:1313/projects/oak/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/syria/</loc>
+    <loc>http://localhost:1313/projects/sudan/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/wcs/</loc>
+    <loc>http://localhost:1313/projects/synevyr/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/print/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/arch3/</loc>
+    <loc>http://localhost:1313/projects/tear-gas/</loc>
   </url><url>
-    <loc>http://karinanguyen.com/projects/witi/</loc>
+    <loc>http://localhost:1313/projects/cyber/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/arch1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/claude3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/futurefash/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/globalvalues/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/hci/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/work-study/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/washpost/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/drone-strike-yemen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/uyghurs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/webpos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/syria/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/wcs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/print/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/arch3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/witi/</loc>
   </url>
 </urlset>

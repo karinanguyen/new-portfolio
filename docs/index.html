@@ -2,15 +2,15 @@
 <html lang="en">
 
 <head>
-	<meta name="generator" content="Hugo 0.92.0" />
+	<meta name="generator" content="Hugo 0.136.5"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <link rel="stylesheet" href="/styles/work.css"> 
 
 
     <title>Karina Nguyen | Karina Nguyen</title>
-    <link rel="canonical" href="http://karinanguyen.com/" />
+    <link rel="canonical" href="http://localhost:1313/" />
 
     
-    <meta property="og:url" content="http://karinanguyen.com/" />
+    <meta property="og:url" content="http://localhost:1313/" />
     <meta property="og:title" content="Karina Nguyen" />
     <meta property="og:description" content="" />
     
@@ -39,22 +39,77 @@
   <p class="front-header">Karina Nguyen</p>
 
   <p class="front-text">
-    I work on alignment capabilities and honesty research at <mark> Anthropic </mark>, reducing hallucinations
-    in large language models, training and evaluating models with novel capabilities, and conducting AI safety research. Most recently I led Claude Instant 1.2 training and productionized the model in the API. 
-    Previously, as a design engineer I collaborated on R&D prototypes, journalism tools, and product features with teams at Primer.ai, Dropbox, Square, and the New York Times.
+      I lead a research team at OpenAI, creating new interaction paradigms for reasoning interfaces and capabilities like ChatGPT canvas, streaming chain-of-thought for o1 models, and more via novel synthetic model training. 
   </p>
-  
 
-  
-  
-
-  <p class="front-subheader">Main Publications</p>
   <p class="front-text">
-    
-    
+      Previously, I worked at Anthropic:
   </p>
 
+  <div class="front-text">
+      <ul>
+          <li>Post-training (RLAIF/RLHF) and leading evaluations for the Claude 3 model series</li>
+          <li>Training & productionizing cost-performance Pareto frontier models: Claude 3 Haiku, Claude Instant 1.2 in the API</li>
+          <li>Researching Constitutional AI, model behavior, hallucinations, honesty, self-correction, refusals, faithful reasoning</li>
+          <li>Building the file uploads feature to productionize 100K long-context capability</li>
+          <li>Developing long-horizon & human feedback interfaces, Claude in Slack, and other unreleased products</li>
+          <li>Writing the first 50,000 lines for the claude.ai and developer console</li>
+          <li>+100 more things that you’d expect to do in a very fast-growing startup!</li>
+      </ul>
+  </div>
+
+  <p class="front-text">
+      Previously, as a product engineer/designer, I worked on R&D prototypes, engineering tools, and product features with teams at Primer.ai, Dropbox, Square, and the New York Times.
+  </p>
+
+  <p class="front-subheader">Research</p>
+  <p class="front-text">
+    Find all published research <a href="https://scholar.google.com/citations?hl=en&user=7T9uecIAAAAJ" target="_blank">here</a>.
+</p>
   <div class="publications">
+    <div class="paper">
+      <p class="title">
+        SimpleQA: Measuring Short-form Factuality in Large Language Models
+      </p>
+      <p class="authors">
+        Jason Wei*, <a>Nguyen Karina*</a>, Hyung Won Chung, Yunxin Joy Jiao,
+        Spencer Papay, Amelia Glaese, John Schulman, William Fedus
+      </p>
+      <p class="details">
+        A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.
+      </p>
+      
+      <div class="misc">
+        <div>[<a href="https://cdn.openai.com/papers/simpleqa.pdf">Paper</a>]</div>
+        <div>
+          [<a
+            href="https://github.com/openai/simple-evals"
+            >Dataset</a
+          >]
+        </div>
+      </div>
+    </div>
+    <div class="paper">
+      <p class="title">
+        Question Decomposition Improves the Faithfulness of Model-Generated Reasoning
+      </p>
+      <p class="authors">
+        Ansh Radhakrishnan*, <a>Karina Nguyen*</a>, +18 more, Jared Kaplan, Jan Brauner, Samuel R. Bowman, Ethan Perez
+      </p>
+      <p class="details">
+        By forcing the model to answer simpler subquestions in separate contexts, we greatly increase the faithfulness of model-generated reasoning over chain-of-thought (CoT), while still achieving some of the performance gains of CoT.
+      </p>
+      
+      <div class="misc">
+        <div>[<a href="https://arxiv.org/pdf/2307.11768">Paper</a>]</div>
+        <div>
+          [<a
+            href="https://github.com/anthropics/DecompositionFaithfulnessPaper"
+            >Dataset</a
+          >]
+        </div>
+      </div>
+    </div>
     <div class="paper">
       <p class="title">
         Towards Measuring the Representation of Subjective Global Opinions in
@@ -113,34 +168,7 @@
         </div>
       </div>
     </div>
-    <div class="paper">
-      <p class="title">
-        FAIR-Ensemble: When Fairness Naturally Emerges From Deep Ensembling
-      </p>
-      <p class="authors">
-        Wei-Yin Ko, Daniel D'souza, <a>Karina Nguyen</a>, Randall Balestriero,
-        Sara Hooker
-      </p>
-      <p class="details">
-        We find compelling and powerful gains in worst-k and minority group
-        performance, i.e. fairness naturally emerges from ensembling.
-      </p>
-      <p class="type">In submission 2023</p>
-
-      <div class="misc">
-        <div>[<a href="https://arxiv.org/pdf/2303.00586.pdf">Paper</a>]</div>
-        <div>
-          [<a href="https://github.com/dsouzadaniel/fair_ensemble">Code</a>]
-        </div>
-        <div>[<a href="https://fair-ensemble.github.io/">Website</a>]</div>
-        <div>
-          [<a
-            href="https://colab.research.google.com/drive/1kNdgQlJdCAiOaLxYMpLhp0NoAdPZGTpJ?usp=sharing"
-            >Interactive Notebook</a
-          >]
-        </div>
-      </div>
-    </div>
+    
     <div class="paper">
         <p class="title">
             Towards Semantically-Aware UI Design Tools: Design, Implementation and Evaluation of Semantic Grouping Guidelines
@@ -151,9 +179,12 @@
         <p class="details">
           We develop computational metric to measure semantic grouping UI violations.
         </p>
-        <p class="type">To appear at ICML Workshop'23</p>
+        <p class="type">ICML Workshop'23</p>
   
-        
+        <div class="misc">
+          <div>[<a href="https://research.google/pubs/towards-semantically-aware-ui-design-tools-design-implementation-and-evaluation-of-semantic-grouping-guidelines/">Google Research Blog</a>]</div>
+          
+        </div>
       </div>
   </div>
 
@@ -162,10 +193,9 @@
   <p class="front-subheader">Investigations</p>
 
   <p class="front-text">
-    My work in visual investigative journalism & human rights involved extensive
-    data collection, evidence verification, satellite analysis, 3D
-    reconstructions, legal submissions, investigative tools, and applied remote
-    sensing:
+    My work in visual forensics & human rights contributed to the Pulitzer Prize reporting.
+    That involved investigations of war crimes and crimes against humanity with extensive data collection, evidence verification, satellite analysis, 3D
+    reconstructions, legal submissions, investigative tools, and applied remote sensing.  
   </p>
 
   <ul class="front-company-list">
@@ -225,7 +255,6 @@
     </li>
   </ul>
 
-  
 
   <p class="front-subheader">Say Hi!</p>
 
@@ -254,7 +283,7 @@
           </li>
           <li>
             <a
-              href="https://scholar.google.com/citations?user=7T9uecIAAAAJ&hl=en"
+              href="https://scholar.google.com/citations?hl=en&user=7T9uecIAAAAJ"
             >
             Google Scholar
             </a>
