@@ -303,6 +303,13 @@
       <description></description>
     </item>
     <item>
+      <title>Claude 3 Model Family: Opus, Sonnet, Haiku</title>
+      <link>http://localhost:1313/projects/claude3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/claude3/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Claude 3 Opus Recursive Self-portrait</title>
       <link>http://localhost:1313/projects/claude3_opus_art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -492,6 +499,13 @@
       <description></description>
     </item>
     <item>
+      <title>Measuring Faithfulness in Chain-of-Thought Reasoning</title>
+      <link>http://localhost:1313/projects/faithfulreasoning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/faithfulreasoning/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mesh</title>
       <link>http://localhost:1313/projects/mesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -664,13 +678,6 @@
       <link>http://localhost:1313/projects/arch1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/arch1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Claude 3 Model Family: Opus, Sonnet, Haiku</title>
-      <link>http://localhost:1313/projects/claude3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/claude3/</guid>
       <description></description>
     </item>
     <item>
