@@ -6,8 +6,15 @@
     <description>Recent content in Writing on Karina Nguyen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 22:20:21 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 22:20:21 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do we set up teams for success? (notes on management)</title>
+      <link>http://localhost:1313/writing/teamsuccess/</link>
+      <pubDate>Mon, 13 Jan 2025 22:20:21 -0500</pubDate>
+      <guid>http://localhost:1313/writing/teamsuccess/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Things I learned at Anthropic</title>
       <link>http://localhost:1313/writing/lessonsanthro/</link>
