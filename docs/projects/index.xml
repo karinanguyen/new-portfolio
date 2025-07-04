@@ -155,6 +155,13 @@
       <description></description>
     </item>
     <item>
+      <title>ChatGPT tasks</title>
+      <link>http://localhost:1313/projects/tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tasks/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Chefs Budgeting Tool</title>
       <link>http://localhost:1313/projects/chefs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -428,7 +435,7 @@
       <description></description>
     </item>
     <item>
-      <title>Reasoning Perforamnce vs Cost from 2022-2024</title>
+      <title>Reasoning Performance vs Cost from 2022-2024</title>
       <link>http://localhost:1313/projects/aireasoning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/aireasoning/</guid>

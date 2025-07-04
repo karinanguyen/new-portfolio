@@ -1,5 +1,5 @@
 ---
-title: "Reasoning Perforamnce vs Cost from 2022-2024"
+title: "Reasoning Performance vs Cost from 2022-2024"
 type: "computer-vision"
 external: "https://semaphore.substack.com/p/the-cost-of-reasoning-in-raw-intelligence"
 image: "ai_cost.png"

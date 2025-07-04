@@ -103,6 +103,8 @@
   </url><url>
     <loc>http://localhost:1313/projects/code_diff/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/tasks/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/chefs/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/claude2/</loc>
