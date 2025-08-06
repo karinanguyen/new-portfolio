@@ -9,10 +9,17 @@
     <lastBuildDate>Thu, 26 Jun 2025 22:20:21 -0500</lastBuildDate>
     <atom:link href="http://localhost:65534/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>IEEE Int&#39;l Conference on LLM-Aided Design, Talk, &#34;Building useful agents via RL&#34;</title>
+      <title>IEEE Int&#39;l Conference on LLM-Aided Design, Talk, &#34;Building Useful Agents via Reinforcement Learning&#34;</title>
       <link>http://localhost:65534/talks/iclad_2025/</link>
       <pubDate>Thu, 26 Jun 2025 22:20:21 -0500</pubDate>
       <guid>http://localhost:65534/talks/iclad_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SHV Speaker Series, &#34;The Art of RL&#34;</title>
+      <link>http://localhost:65534/talks/shv_2025/</link>
+      <pubDate>Fri, 23 May 2025 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/shv_2025/</guid>
       <description></description>
     </item>
     <item>
@@ -51,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Future of AI Interfaces, Talk, &#34;New Interaction Paradigms &amp; Behavioral Engineering of AGI&#34;</title>
+      <link>http://localhost:65534/talks/futureinterfaces_2025/</link>
+      <pubDate>Thu, 23 Jan 2025 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/futureinterfaces_2025/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>How do we set up teams for success? (notes on management)</title>
       <link>http://localhost:65534/writing/teamsuccess/</link>
       <pubDate>Mon, 13 Jan 2025 22:20:21 -0500</pubDate>
@@ -72,7 +86,7 @@
       <description></description>
     </item>
     <item>
-      <title>UC Berkeley, Jacobs Institute for Design Innovation, &#34;Laboratory of Language and Language Models&#34;</title>
+      <title>UC Berkeley, Jacobs Institute for Design Innovation, &#34;Laboratory of Language and Language Models&#34; (slides)</title>
       <link>http://localhost:65534/talks/uc_berkeley_jacobs_2023/</link>
       <pubDate>Thu, 24 Oct 2024 22:20:21 -0500</pubDate>
       <guid>http://localhost:65534/talks/uc_berkeley_jacobs_2023/</guid>
@@ -114,10 +128,10 @@
       <description></description>
     </item>
     <item>
-      <title>UC Berkeley RiseLab, Talk, &#34;Effective Research Communication -  Data Visualization Techniques&#34;</title>
-      <link>http://localhost:65534/talks/bair_2023-copy/</link>
-      <pubDate>Mon, 23 Oct 2023 22:16:21 -0500</pubDate>
-      <guid>http://localhost:65534/talks/bair_2023-copy/</guid>
+      <title>GitHub HQ, Lightning Talk &amp; Demo, &#34;Language models should become world-class curators&#34;</title>
+      <link>http://localhost:65534/talks/github_2023/</link>
+      <pubDate>Tue, 16 Jan 2024 22:20:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/github_2023/</guid>
       <description></description>
     </item>
     <item>
@@ -142,6 +156,13 @@
       <description></description>
     </item>
     <item>
+      <title>Dropbox HQ Speaker Panel w/ Drew Houston, &#34;LLMs &#43; Your Data in Production&#34;</title>
+      <link>http://localhost:65534/talks/dropbox_2023/</link>
+      <pubDate>Sun, 23 Jul 2023 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/dropbox_2023/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Lost study of subway construction: engineering Soviet metro</title>
       <link>http://localhost:65534/writing/subwayeng/</link>
       <pubDate>Wed, 28 Jun 2023 22:20:21 -0500</pubDate>
@@ -153,13 +174,6 @@
       <link>http://localhost:65534/writing/principledprogress/</link>
       <pubDate>Sun, 28 May 2023 22:20:21 -0500</pubDate>
       <guid>http://localhost:65534/writing/principledprogress/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GitHub HQ, Lightning Talk &amp; Demo, &#34;Language models should become world-class curators&#34;</title>
-      <link>http://localhost:65534/talks/github_2023/</link>
-      <pubDate>Mon, 16 Jan 2023 22:20:21 -0500</pubDate>
-      <guid>http://localhost:65534/talks/github_2023/</guid>
       <description></description>
     </item>
     <item>
