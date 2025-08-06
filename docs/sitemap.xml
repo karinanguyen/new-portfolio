@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/writing/lessonsanthro/</loc>
-    <lastmod>2024-05-24T22:20:21-05:00</lastmod>
+    <loc>http://localhost:1313/writing/teamsuccess/</loc>
+    <lastmod>2025-01-13T22:20:21-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/</loc>
+    <lastmod>2025-01-13T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/lessonsanthro/</loc>
     <lastmod>2024-05-24T22:20:21-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/tailoringtaste/</loc>
@@ -111,6 +114,8 @@
   </url><url>
     <loc>http://localhost:1313/projects/claude3haiku/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/claude3/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/claude3_opus_art/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/claude_console_api/</loc>
@@ -165,6 +170,8 @@
   </url><url>
     <loc>http://localhost:1313/projects/israel/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/faithfulreasoning/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/mesh/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/wage/</loc>
@@ -218,8 +225,6 @@
     <loc>http://localhost:1313/projects/cyber/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/arch1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/claude3/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/futurefash/</loc>
   </url><url>
