@@ -2,66 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karina Nguyen</title>
-    <link>http://localhost:1313/talks/</link>
+    <link>http://localhost:65534/talks/</link>
     <description>Recent content on Karina Nguyen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jun 2025 22:20:21 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65534/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>IEEE Int&#39;l Conference on LLM-Aided Design, Talk, &#34;Building useful agents via RL&#34;</title>
-      <link>http://localhost:1313/talks/iclad_2025/</link>
+      <title>IEEE Int&#39;l Conference on LLM-Aided Design, Talk, &#34;Building Useful Agents via Reinforcement Learning&#34;</title>
+      <link>http://localhost:65534/talks/iclad_2025/</link>
       <pubDate>Thu, 26 Jun 2025 22:20:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/iclad_2025/</guid>
+      <guid>http://localhost:65534/talks/iclad_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SHV Speaker Series, &#34;The Art of RL&#34;</title>
+      <link>http://localhost:65534/talks/shv_2025/</link>
+      <pubDate>Fri, 23 May 2025 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/shv_2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Stanford CS25, Guest lecture, &#34;RL as a co-design of product and research&#34;</title>
-      <link>http://localhost:1313/talks/stanford_cs25/</link>
+      <link>http://localhost:65534/talks/stanford_cs25/</link>
       <pubDate>Tue, 08 Apr 2025 22:20:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/stanford_cs25/</guid>
+      <guid>http://localhost:65534/talks/stanford_cs25/</guid>
       <description></description>
     </item>
     <item>
-      <title>AI Engineering Summit 2025, Talk, &#34;Creating agents that co-create&#34;</title>
-      <link>http://localhost:1313/talks/aieng_summit_2025/</link>
+      <title>AI Engineering Summit 2025, Talk, &#34;Creating Agents That Co-create&#34;</title>
+      <link>http://localhost:65534/talks/aieng_summit_2025/</link>
       <pubDate>Tue, 08 Apr 2025 22:16:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/aieng_summit_2025/</guid>
+      <guid>http://localhost:65534/talks/aieng_summit_2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Columbia University DAPLab, Speaker Panel, &#34;Agents for Work&#34;</title>
-      <link>http://localhost:1313/talks/columbia_2025/</link>
+      <link>http://localhost:65534/talks/columbia_2025/</link>
       <pubDate>Tue, 25 Mar 2025 22:20:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/columbia_2025/</guid>
+      <guid>http://localhost:65534/talks/columbia_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stanford d.school, Talk, &#34;Designing Human-AI Teams&#34;</title>
+      <link>http://localhost:65534/talks/dschool_2025/</link>
+      <pubDate>Wed, 05 Mar 2025 22:20:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/dschool_2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Lenny&#39;s Podcast on AI model training, synthetic data, and building novel products</title>
-      <link>http://localhost:1313/talks/lenny_2025/</link>
+      <link>http://localhost:65534/talks/lenny_2025/</link>
       <pubDate>Sun, 09 Feb 2025 22:16:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/lenny_2025/</guid>
+      <guid>http://localhost:65534/talks/lenny_2025/</guid>
       <description></description>
     </item>
     <item>
-      <title>DeepLearning.AI with Andrew Ng, Course Instructor, &#34;Collaborative Writing and Coding with OpenAI Canvas&#34;</title>
-      <link>http://localhost:1313/talks/deeplearning_2025/</link>
+      <title>Future of AI Interfaces, Talk, &#34;New Interaction Paradigms &amp; Behavioral Engineering of AGI&#34;</title>
+      <link>http://localhost:65534/talks/futureinterfaces_2025/</link>
+      <pubDate>Thu, 23 Jan 2025 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/futureinterfaces_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DeepLearning.AI with Andrew Ng, Course, &#34;Collaborative Writing and Coding with OpenAI Canvas&#34;</title>
+      <link>http://localhost:65534/talks/deeplearning_2025/</link>
       <pubDate>Sun, 05 Jan 2025 22:20:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/deeplearning_2025/</guid>
+      <guid>http://localhost:65534/talks/deeplearning_2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Latent Space Podcast, &#34;The Agent Reasoning Interface - o1, Claude 3, ChatGPT Canvas, Tasks, and Operator&#34;</title>
-      <link>http://localhost:1313/talks/latent_2025/</link>
+      <link>http://localhost:65534/talks/latent_2025/</link>
       <pubDate>Mon, 09 Dec 2024 22:16:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/latent_2025/</guid>
+      <guid>http://localhost:65534/talks/latent_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UC Berkeley, Jacobs Institute for Design Innovation, &#34;Laboratory of Language and Language Models&#34;</title>
+      <link>http://localhost:65534/talks/uc_berkeley_jacobs_2023/</link>
+      <pubDate>Thu, 24 Oct 2024 22:20:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/uc_berkeley_jacobs_2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UC Berkeley AI Research (BAIR), Talk, &#34;Behavioral Engineering of AI Models&#34;</title>
+      <link>http://localhost:65534/talks/bair_2024/</link>
+      <pubDate>Tue, 23 Jul 2024 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/bair_2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Stanford NLP Seminar, Guest lecture, &#34;Language Models - Evals, Post-training, UI Design&#34;</title>
-      <link>http://localhost:1313/talks/stanford_nlp_2025/</link>
+      <link>http://localhost:65534/talks/stanford_nlp_2025/</link>
       <pubDate>Thu, 16 May 2024 22:20:21 -0500</pubDate>
-      <guid>http://localhost:1313/talks/stanford_nlp_2025/</guid>
+      <guid>http://localhost:65534/talks/stanford_nlp_2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub HQ, Lightning Talk &amp; Demo, &#34;Language models should become world-class curators&#34;</title>
+      <link>http://localhost:65534/talks/github_2023/</link>
+      <pubDate>Tue, 16 Jan 2024 22:20:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/github_2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UC Berkeley RiseLab, Talk, &#34;Effective Research Communication -  Data Visualization Techniques&#34;</title>
+      <link>http://localhost:65534/talks/bair_2023/</link>
+      <pubDate>Mon, 23 Oct 2023 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/bair_2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dropbox HQ Speaker Panel w/ Drew Houston, &#34;LLMs &#43; Your Data in Production&#34;</title>
+      <link>http://localhost:65534/talks/dropbox_2023/</link>
+      <pubDate>Sun, 23 Jul 2023 22:16:21 -0500</pubDate>
+      <guid>http://localhost:65534/talks/dropbox_2023/</guid>
       <description></description>
     </item>
   </channel>

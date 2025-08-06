@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on Karina Nguyen</title>
-    <link>https://karinanguyen.com/writing/</link>
+    <link>http://localhost:65534/writing/</link>
     <description>Recent content in Writing on Karina Nguyen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jan 2025 22:20:21 -0500</lastBuildDate>
-    <atom:link href="https://karinanguyen.com/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65534/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How do we set up teams for success? (notes on management)</title>
-      <link>https://karinanguyen.com/writing/teamsuccess/</link>
+      <link>http://localhost:65534/writing/teamsuccess/</link>
       <pubDate>Mon, 13 Jan 2025 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/teamsuccess/</guid>
+      <guid>http://localhost:65534/writing/teamsuccess/</guid>
       <description></description>
     </item>
     <item>
       <title>Things I learned at Anthropic</title>
-      <link>https://karinanguyen.com/writing/lessonsanthro/</link>
+      <link>http://localhost:65534/writing/lessonsanthro/</link>
       <pubDate>Fri, 24 May 2024 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/lessonsanthro/</guid>
+      <guid>http://localhost:65534/writing/lessonsanthro/</guid>
       <description></description>
     </item>
     <item>
       <title>Tailoring taste. Reflections on building Inter Alia, a visual text-image fashion recommendation search</title>
-      <link>https://karinanguyen.com/writing/tailoringtaste/</link>
+      <link>http://localhost:65534/writing/tailoringtaste/</link>
       <pubDate>Wed, 24 Apr 2024 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/tailoringtaste/</guid>
+      <guid>http://localhost:65534/writing/tailoringtaste/</guid>
       <description></description>
     </item>
     <item>
       <title>The cost of AI reasoning over time</title>
-      <link>https://karinanguyen.com/writing/costreasoning/</link>
+      <link>http://localhost:65534/writing/costreasoning/</link>
       <pubDate>Sun, 24 Mar 2024 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/costreasoning/</guid>
+      <guid>http://localhost:65534/writing/costreasoning/</guid>
       <description></description>
     </item>
     <item>
       <title>Cultures of writing. Strong writing cultures enable innovation.</title>
-      <link>https://karinanguyen.com/writing/cultureswriting/</link>
+      <link>http://localhost:65534/writing/cultureswriting/</link>
       <pubDate>Thu, 28 Sep 2023 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/cultureswriting/</guid>
+      <guid>http://localhost:65534/writing/cultureswriting/</guid>
       <description></description>
     </item>
     <item>
       <title>Hard truths. Some truths are so hard, voicing them feels like betraying those you love most.</title>
-      <link>https://karinanguyen.com/writing/hardtruths/</link>
+      <link>http://localhost:65534/writing/hardtruths/</link>
       <pubDate>Mon, 28 Aug 2023 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/hardtruths/</guid>
+      <guid>http://localhost:65534/writing/hardtruths/</guid>
       <description></description>
     </item>
     <item>
       <title>Lost study of subway construction: engineering Soviet metro</title>
-      <link>https://karinanguyen.com/writing/subwayeng/</link>
+      <link>http://localhost:65534/writing/subwayeng/</link>
       <pubDate>Wed, 28 Jun 2023 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/subwayeng/</guid>
+      <guid>http://localhost:65534/writing/subwayeng/</guid>
       <description></description>
     </item>
     <item>
       <title>Principled progress. Moral craftsmanship and inhabiting contradiction with AGI</title>
-      <link>https://karinanguyen.com/writing/principledprogress/</link>
+      <link>http://localhost:65534/writing/principledprogress/</link>
       <pubDate>Sun, 28 May 2023 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/principledprogress/</guid>
+      <guid>http://localhost:65534/writing/principledprogress/</guid>
       <description></description>
     </item>
     <item>
       <title>On joining Anthropic, AI safety research lab</title>
-      <link>https://karinanguyen.com/writing/joiningsafetylab/</link>
+      <link>http://localhost:65534/writing/joiningsafetylab/</link>
       <pubDate>Fri, 28 Oct 2022 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/joiningsafetylab/</guid>
+      <guid>http://localhost:65534/writing/joiningsafetylab/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyberwarcrime and punishment</title>
-      <link>https://karinanguyen.com/writing/vr/</link>
+      <link>http://localhost:65534/writing/vr/</link>
       <pubDate>Thu, 28 Jul 2022 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/vr/</guid>
+      <guid>http://localhost:65534/writing/vr/</guid>
       <description></description>
     </item>
     <item>
       <title>Architecture as a device for violence</title>
-      <link>https://karinanguyen.com/writing/archfordest/</link>
+      <link>http://localhost:65534/writing/archfordest/</link>
       <pubDate>Sun, 28 Nov 2021 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/archfordest/</guid>
+      <guid>http://localhost:65534/writing/archfordest/</guid>
       <description></description>
     </item>
     <item>
       <title>On ethical design (Op-Ed for Dropbox Design)</title>
-      <link>https://karinanguyen.com/writing/ethicaldesign/</link>
+      <link>http://localhost:65534/writing/ethicaldesign/</link>
       <pubDate>Sun, 28 Mar 2021 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/ethicaldesign/</guid>
+      <guid>http://localhost:65534/writing/ethicaldesign/</guid>
       <description></description>
     </item>
     <item>
       <title>VR intensifies debates about art </title>
-      <link>https://karinanguyen.com/writing/cyber/</link>
+      <link>http://localhost:65534/writing/cyber/</link>
       <pubDate>Sun, 28 Feb 2021 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/cyber/</guid>
+      <guid>http://localhost:65534/writing/cyber/</guid>
       <description></description>
     </item>
     <item>
       <title>American policies to focus on (Op-Ed for the Daily Californian)</title>
-      <link>https://karinanguyen.com/writing/newyear/</link>
+      <link>http://localhost:65534/writing/newyear/</link>
       <pubDate>Thu, 28 Jan 2021 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/newyear/</guid>
+      <guid>http://localhost:65534/writing/newyear/</guid>
       <description></description>
     </item>
     <item>
       <title>From the history of social networks to machine learning harassment</title>
-      <link>https://karinanguyen.com/writing/socialnetworks/</link>
+      <link>http://localhost:65534/writing/socialnetworks/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://karinanguyen.com/writing/socialnetworks/</guid>
+      <guid>http://localhost:65534/writing/socialnetworks/</guid>
       <description></description>
     </item>
     <item>
       <title>Principles of effective negotiations for product designers</title>
-      <link>https://karinanguyen.com/writing/negotiations/</link>
+      <link>http://localhost:65534/writing/negotiations/</link>
       <pubDate>Wed, 28 Oct 2020 22:20:21 -0500</pubDate>
-      <guid>https://karinanguyen.com/writing/negotiations/</guid>
+      <guid>http://localhost:65534/writing/negotiations/</guid>
       <description></description>
     </item>
     <item>
       <title>The political value of your data</title>
-      <link>https://karinanguyen.com/writing/politicaldata/</link>
+      <link>http://localhost:65534/writing/politicaldata/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://karinanguyen.com/writing/politicaldata/</guid>
+      <guid>http://localhost:65534/writing/politicaldata/</guid>
       <description></description>
     </item>
     <item>
       <title>Design thinking for physical experiences</title>
-      <link>https://karinanguyen.com/writing/designphys/</link>
+      <link>http://localhost:65534/writing/designphys/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://karinanguyen.com/writing/designphys/</guid>
+      <guid>http://localhost:65534/writing/designphys/</guid>
       <description></description>
     </item>
   </channel>
