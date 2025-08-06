@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/talks/</loc>
+    <lastmod>2025-06-26T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/iclad_2025/</loc>
+    <lastmod>2025-06-26T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/stanford_cs25/</loc>
+    <lastmod>2025-04-08T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/aieng_summit_2025/</loc>
+    <lastmod>2025-04-08T22:16:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/columbia_2025/</loc>
+    <lastmod>2025-03-25T22:20:21-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/writing/teamsuccess/</loc>
     <lastmod>2025-01-13T22:20:21-05:00</lastmod>
   </url><url>
@@ -10,6 +25,9 @@
   </url><url>
     <loc>http://localhost:1313/writing/lessonsanthro/</loc>
     <lastmod>2024-05-24T22:20:21-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/stanford_nlp_2025/</loc>
+    <lastmod>2024-05-16T22:20:21-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/tailoringtaste/</loc>
     <lastmod>2024-04-24T22:20:21-05:00</lastmod>
