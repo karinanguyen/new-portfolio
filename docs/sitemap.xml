@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://karinanguyen.com/writing/fairchildren/</loc>
+    <lastmod>2026-06-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://karinanguyen.com/writing/</loc>
+    <lastmod>2026-06-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://karinanguyen.com/writing/learnedopenai/</loc>
+    <lastmod>2026-03-28T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://karinanguyen.com/writing/stayinconvenienced/</loc>
+    <lastmod>2025-11-28T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://karinanguyen.com/talks/</loc>
     <lastmod>2025-06-26T22:20:21-05:00</lastmod>
   </url><url>
     <loc>https://karinanguyen.com/talks/iclad_2025/</loc>
     <lastmod>2025-06-26T22:20:21-05:00</lastmod>
-  </url><url>
-    <loc>https://karinanguyen.com/writing/learnedopenai/</loc>
-    <lastmod>2025-06-01T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://karinanguyen.com/writing/</loc>
-    <lastmod>2025-06-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://karinanguyen.com/talks/shv_2025/</loc>
     <lastmod>2025-05-23T22:16:21-05:00</lastmod>
@@ -29,9 +35,6 @@
     <loc>https://karinanguyen.com/talks/dschool_2025/</loc>
     <lastmod>2025-03-05T22:20:21-05:00</lastmod>
   </url><url>
-    <loc>https://karinanguyen.com/writing/stayinconvenienced/</loc>
-    <lastmod>2025-03-01T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://karinanguyen.com/talks/lenny_2025/</loc>
     <lastmod>2025-02-09T22:16:21-05:00</lastmod>
   </url><url>
@@ -43,9 +46,6 @@
   </url><url>
     <loc>https://karinanguyen.com/talks/deeplearning_2025/</loc>
     <lastmod>2025-01-05T22:20:21-05:00</lastmod>
-  </url><url>
-    <loc>https://karinanguyen.com/writing/fairchildren/</loc>
-    <lastmod>2025-01-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://karinanguyen.com/talks/latent_2025/</loc>
     <lastmod>2024-12-09T22:16:21-05:00</lastmod>
